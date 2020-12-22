@@ -40,8 +40,6 @@ https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/chunks.m3u8
 #EXTINF:-1,Fox Action Movies (TH)
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1,Warner TV (TH)
-http://203.154.177.124:8899/live/ch12/playlist.m3u8
-#EXTINF:-1,Warner TV (TH) (Backup)
 http://203.154.243.89:1205
 #EXTINF:-1,Movies 6 (TH)
 http://203.154.243.89:1423

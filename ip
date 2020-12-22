@@ -533,10 +533,6 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,R Channel
 http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
-#EXTINF:-1,=== 18+ ===
-http://
-#EXTINF:-1,Playboy TV
-https://cdn6.goprimetime.info/feed/LC54/index.m3u8
 #EXTINF:-1,=== Test Link ===
 https://
 #EXTINF:-1,CH5 HD
@@ -699,5 +695,9 @@ https://cdn6.goprimetime.info/feed/LC51/index.m3u8
 https://cdn6.goprimetime.info/feed/LC56/index.m3u8
 #EXTINF:-1,test_36
 https://cdn6.goprimetime.info/feed/LC57/index.m3u8
+#EXTINF:-1,=== 18+ ===
+http://
+#EXTINF:-1,Playboy TV
+https://cdn6.goprimetime.info/feed/LC54/index.m3u8
 #EXTINF:-1,อัพเดท 22/12/26563
 http://

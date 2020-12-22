@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 Live Cams
+#EXTINF:-1,Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1,Anal
 http://cdn.adultiptv.net/anal.m3u8
@@ -77,7 +77,7 @@ http://188.35.9.5:10005/stolen/153a/imposter.rar
 http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
 #EXTINF:-1,Rainbow TV
 http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
-#EXTINF-1,Super One HD
+#EXTINF:-1,Super One HD
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1,Sōng shì 1
 http://204.45.182.172:26789/i/ghjnvq5o/8c855fdf/index.m3u8

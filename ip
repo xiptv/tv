@@ -73,18 +73,22 @@ https://www.livedoomovies.com/02_TRUEMUSIC_720p/chunklist.m3u8
 http://203.154.243.89:1213
 #EXTINF:-1,Retro Music TV
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554622_b750000.m3u8
-#EXTINF:-1,MTV Live HD
-https://cdn6.goprimetime.info/feed/LC31/index.m3u8
-#EXTINF:-1,MTV Hits
-http://youriptv.tv:8080/live/ARGENTINA/Nicetry8888/39255.m3u8
+#EXTINF:-1,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,MTV
 https://cdn6.goprimetime.info/feed/LC3/index.m3u8
+#EXTINF:-1,MTV Hits
+http://youriptv.tv:8080/live/ARGENTINA/Nicetry8888/39255.m3u8
+#EXTINF:-1,MTV Live HD
+https://cdn6.goprimetime.info/feed/LC31/index.m3u8
 #EXTINF:-1,4FUN TV
-https://stream.4fun.tv:8888/hls/4f.m3u8
-#EXTINF:-1,MTV China
-http://203.154.177.124:8899/live/ch16/playlist.m3u8
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 #EXTINF:-1,Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,M2OTV
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1,Mooz HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/18.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
 #EXTINF:-1,Mooz Dance HD
@@ -571,58 +575,6 @@ https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
 https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
 #EXTINF:-1,PPTV HD
 https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
-#EXTINF:-1,MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,The Box
-http://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1,M2OTV
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1,RetroTV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,Music TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist.m3u8
-#EXTINF:-1,Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1,30A Music
-https://30a-tv.com/music.m3u8
-#EXTINF:-1,4FUN TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1,CCM
-http://live2.aplayhd.xyz/aplay/ccm-1.m3u8
-#EXTINF:-1,KMTV
-http://live2.aplayhd.xyz/aplay/kmtv-1.m3u8
-#EXTINF:-1,thrill
-http://203.154.177.124:8899/live/ch21/chunks.m3u8
-#EXTINF:-1,M Channel
-http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w32485402.m3u8
-#EXTINF:-1,Channel 8
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1,test_9 ok
-http://160.119.77.116:8081/iptv/epl-3.stream/chunks.m3u8
-#EXTINF:-1,AXN (TH)
-https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/chunks.m3u8
-#EXTINF:-1,Warner TV (TH)
-http://live2.aplayhd.xyz/aplay/warner-1.m3u8
-#EXTINF:-1,Premier HD 1
-http://live2.aplayhd.xyz/aplay/epl1-1.m3u8
-#EXTINF:-1,Premier HD 2
-http://live2.aplayhd.xyz/aplay/epl2-1.m3u8
-#EXTINF:-1,Cartoon Movies
-http://live1.aplayhd.xyz/Cartoonmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,History (TH)
-http://live2.aplayhd.xyz/aplay/history-1.m3u8
-#EXTINF:-1,H2 (TH)
-http://live2.aplayhd.xyz/aplay/h2-1.m3u8
-#EXTINF:-1,TooNEE
-https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_720p/chunklist_w1345216786.m3u8
-#EXTINF:-1,astro Super Sports 1
-http://stream2.a-play.online:8888/Astro1/index.m3u8
-#EXTINF:-1,astro Super Sports 2
-http://stream2.a-play.online:8888/Astro2/index.m3u8
-#EXTINF:-1,astro Super Sports 3
-http://stream2.a-play.online:8888/Astro3/index.m3u8
-#EXTINF:-1,astro Super Sports 4
-http://stream2.a-play.online:8888/Astro4/index.m3u8
 #EXTINF:-1,test_1
 https://cdn6.goprimetime.info/feed/LC3/index.m3u8
 #EXTINF:-1,test_2

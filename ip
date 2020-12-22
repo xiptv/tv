@@ -105,9 +105,9 @@ http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
 #EXTINF:-1,Boomerang
 https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
-#EXTINF:-1,Toonee
+#EXTINF:-1,TooNEE
 https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
-#EXTINF:-1,Toonee (Backup)
+#EXTINF:-1,TooNEE (Backup)
 https://cdn6.goprimetime.info/feed/LC23/index.m3u8
 #EXTINF:-1,Cartoon Club HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8

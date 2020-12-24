@@ -101,6 +101,8 @@ https://cdn6.goprimetime.info/feed/LC38/index.m3u8
 https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 #EXTINF:-1,Disney Channel
 https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1,Disney XD
+http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
 #EXTINF:-1,SPARKJUMP
 http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 #EXTINF:-1,SPARKPLAY

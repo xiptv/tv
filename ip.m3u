@@ -33,18 +33,16 @@ https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 https://www.livedoomovie.com/02_HITS_720p/chunklist.m3u8
 #EXTINF:-1,Hits Movies
 https://www.livedoomovie.com/02_HITSMOVIE_720p/chunklist.m3u8
-#EXTINF:-1,thrill
-https://cdn6.goprimetime.info/feed/LC26/index.m3u8
+#EXTINF:-1,Paramount (TH)
+https://edge-n2.worldwidetv.club/b4Vwk8jU6HoqjwGKLbeSPA/1608973438/live-o33-th-abr/hd-paramount/playlist.m3u8
 #EXTINF:-1,Fox Movies (TH)
 https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/chunks.m3u8
 #EXTINF:-1,Fox Action Movies (TH)
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1,Warner TV (TH)
-http://203.154.243.89:1205
-#EXTINF:-1,Movies 6 (TH)
-http://203.154.243.89:1423
+https://edge-n7.worldwidetv.club/xSKcOm3c4XALgrF8V-7Cbw/1608973719/live-o33-th-abr/hd-warnertv/playlist.m3u8
 #EXTINF:-1,AXN (TH)
-http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
+https://edge-n7.worldwidetv.club/WBRVRMrWpsa6-2Ytqt5tLA/1608973631/live-o33-th-abr/hd-axn/playlist.m3u8
 #EXTINF:-1,HBO
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO Family

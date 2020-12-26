@@ -65,6 +65,10 @@ https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 #EXTINF:-1,CAT Channel HD
 https://cdn6.goprimetime.info/feed/CAT/index.m3u8
+#EXTINF:-1,RTL CBS
+https://edge-n7.worldwidetv.club/SOjPk5tgaoy0FFJ6wxVFUQ/1608972870/live-o33-th-abr/hd-rtlcbs/playlist.m3u8
+#EXTINF:-1,KBS World
+https://edge-n7.worldwidetv.club/eg954nTqwYIZtGOgeO3Udw/1608973181/live-o33-th-abr/hd-kbsworld/playlist.m3u8
 #EXTINF:-1,True Music
 https://www.livedoomovies.com/02_TRUEMUSIC_720p/chunklist.m3u8
 #EXTINF:-1,MUSIC FOR YOU
@@ -125,6 +129,8 @@ https://cdn6.goprimetime.info/feed/LC32/index.m3u8
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1,H2 (TH)
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1,X-ZYTE
+https://edge-n7.worldwidetv.club/NRihSL8JWt_Ri1TeaPJr8A/1608972612/live-o33-th-abr/hd-xzyte/playlist.m3u8
 #EXTINF:-1,สำรวจโลก
 https://cdn6.goprimetime.info/feed/LC8/index.m3u8
 #EXTINF:-1,PSI สาระดี

@@ -651,5 +651,7 @@ https://cdn6.goprimetime.info/feed/LC56/index.m3u8
 https://cdn6.goprimetime.info/feed/LC57/index.m3u8
 #EXTINF:-1,test_37
 http://27.254.142.14/foxmovie.m3u8
+#EXTINF:-1,test_38
+http://27.254.142.14/foxfamily.m3u8
 #EXTINF:-1,อัพเดท 26/12/2563
 http://

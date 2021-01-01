@@ -650,6 +650,6 @@ https://cdn6.goprimetime.info/feed/LC56/index.m3u8
 #EXTINF:-1,test_36
 https://cdn6.goprimetime.info/feed/LC57/index.m3u8
 #EXTINF:-1,test_37
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+http://27.254.142.14/foxmovie.m3u8
 #EXTINF:-1,อัพเดท 26/12/2563
 http://

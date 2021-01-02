@@ -655,5 +655,7 @@ http://27.254.142.14/foxmovie.m3u8
 http://27.254.142.14/foxfamily.m3u8
 #EXTINF:-1,test_39
 https://boxmovielive.com/live/monoplus4.m3u8
+#EXTINF:-1,test_40
+https://live.thaitvstream.com/play/studio/index.m3u8
 #EXTINF:-1,อัพเดท 26/12/2563
 http://

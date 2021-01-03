@@ -33,6 +33,14 @@ https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 https://www.livedoomovie.com/02_HITS_720p/chunklist.m3u8
 #EXTINF:-1,Hits Movies
 https://www.livedoomovie.com/02_HITSMOVIE_720p/chunklist.m3u8
+#EXTINF:-1,สยาม
+https://edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/playlist.m3u8
+#EXTINF:-1,ลิโด้
+https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
+#EXTINF:-1,สกาล่า
+https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
+#EXTINF:-1,ราม่า
+https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 #EXTINF:-1,Paramount (TH)
 https://edge-n2.worldwidetv.club/b4Vwk8jU6HoqjwGKLbeSPA/1608973438/live-o33-th-abr/hd-paramount/playlist.m3u8
 #EXTINF:-1,Fox Movies (TH)
@@ -40,10 +48,10 @@ https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/chunks.m3u8
 #EXTINF:-1,Fox Action Movies (TH)
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1,Warner TV (TH)
-https://edge-n7.worldwidetv.club/oE3kYPqhajKdTBichmTukg/1608974532/live-o33-th-abr/hd-warnertv/liveorigin/hd-warnertv_720/chunks.m3u8
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8nks.m3u8
 #EXTINF:-1,AXN (TH)
 https://edge-n7.worldwidetv.club/WBRVRMrWpsa6-2Ytqt5tLA/1608973631/live-o33-th-abr/hd-axn/playlist.m3u8
-#EXTINF:-1,HBO
+#EXTINF:-1,HBO HD
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO Family
 https://dootvgun.com/hbotv/hbofam/playlist.m3u8
@@ -81,6 +89,8 @@ https://cdn6.goprimetime.info/feed/LC3/index.m3u8
 http://youriptv.tv:8080/live/ARGENTINA/Nicetry8888/39255.m3u8
 #EXTINF:-1,MTV Live HD
 https://cdn6.goprimetime.info/feed/LC31/index.m3u8
+#EXTINF:-1, Channel [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,4FUN TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1,Music Top
@@ -97,14 +107,14 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?st
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,Mooz RO!
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1,Animax (TH)
 https://cdn6.goprimetime.info/feed/LC38/index.m3u8
 #EXTINF:-1,Cartoon Network
 https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 #EXTINF:-1,Disney Channel
 https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
-#EXTINF:-1,Disney XD
-http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
 #EXTINF:-1,SPARKJUMP
 http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 #EXTINF:-1,SPARKPLAY
@@ -127,8 +137,8 @@ https://cdn6.goprimetime.info/feed/LC32/index.m3u8
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1,H2 (TH)
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1,X-ZYTE
-https://edge-n7.worldwidetv.club/NRihSL8JWt_Ri1TeaPJr8A/1608972612/live-o33-th-abr/hd-xzyte/playlist.m3u8
+#EXTINF:-1,Animal Planet (TH)
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1,สำรวจโลก
 https://cdn6.goprimetime.info/feed/LC8/index.m3u8
 #EXTINF:-1,PSI สาระดี
@@ -661,5 +671,7 @@ https://boxmovielive.com/live/monoplus4.m3u8
 https://live.thaitvstream.com/play/studio/index.m3u8
 #EXTINF:-1,test_Fox Movies
 http://103.245.164.105:1935/aplay/disneych/playlist.m3u8
+#EXTINF:-1,test_CH5
+http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
 #EXTINF:-1,อัพเดท 03/01/2564
 http://

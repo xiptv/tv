@@ -40,7 +40,7 @@ https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/chunks.m3u8
 #EXTINF:-1,Fox Action Movies (TH)
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1,Warner TV (TH)
-https://edge-n7.worldwidetv.club/xSKcOm3c4XALgrF8V-7Cbw/1608973719/live-o33-th-abr/hd-warnertv/playlist.m3u8
+https://edge-n7.worldwidetv.club/oE3kYPqhajKdTBichmTukg/1608974532/live-o33-th-abr/hd-warnertv/liveorigin/hd-warnertv_720/chunks.m3u8
 #EXTINF:-1,AXN (TH)
 https://edge-n7.worldwidetv.club/WBRVRMrWpsa6-2Ytqt5tLA/1608973631/live-o33-th-abr/hd-axn/playlist.m3u8
 #EXTINF:-1,HBO
@@ -649,9 +649,15 @@ https://cdn6.goprimetime.info/feed/LC51/index.m3u8
 https://cdn6.goprimetime.info/feed/LC56/index.m3u8
 #EXTINF:-1,test_36
 https://cdn6.goprimetime.info/feed/LC57/index.m3u8
-#EXTINF:-1,=== 18+ ===
-http://
-#EXTINF:-1,Playboy TV
-https://cdn6.goprimetime.info/feed/LC54/index.m3u8
-#EXTINF:-1,อัพเดท 26/12/2563
+#EXTINF:-1,test_37
+http://27.254.142.14/foxmovie.m3u8
+#EXTINF:-1,test_38
+http://27.254.142.14/foxfamily.m3u8
+#EXTINF:-1,test_39
+https://boxmovielive.com/live/monoplus4.m3u8
+#EXTINF:-1,test_40
+https://live.thaitvstream.com/play/studio/index.m3u8
+#EXTINF:-1,test_Fox Movies
+http://103.245.164.105:1935/aplay/disneych/playlist.m3u8
+#EXTINF:-1,อัพเดท 03/01/2564
 http://

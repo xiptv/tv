@@ -669,6 +669,16 @@ http://27.254.142.14/foxfamily.m3u8
 https://boxmovielive.com/live/monoplus4.m3u8
 #EXTINF:-1,test_40
 https://live.thaitvstream.com/play/studio/index.m3u8
+#EXTINF:-1,test_Premier 1
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 2
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl2_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 3
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl3_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 4
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl4_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 5
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl5_480p/chunks.m3u8
 #EXTINF:-1,test_Fox Movies
 http://103.245.164.105:1935/aplay/disneych/playlist.m3u8
 #EXTINF:-1,test_CH5

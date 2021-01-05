@@ -44,7 +44,7 @@ https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 #EXTINF:-1,Paramount (TH)
 https://edge-n2.worldwidetv.club/b4Vwk8jU6HoqjwGKLbeSPA/1608973438/live-o33-th-abr/hd-paramount/playlist.m3u8
 #EXTINF:-1,Fox Movies (TH)
-https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/chunks.m3u8
+http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,Fox Action Movies (TH)
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1,Warner TV (TH)

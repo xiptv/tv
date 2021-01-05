@@ -44,7 +44,7 @@ https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 #EXTINF:-1,Paramount (TH)
 https://edge-n2.worldwidetv.club/b4Vwk8jU6HoqjwGKLbeSPA/1608973438/live-o33-th-abr/hd-paramount/playlist.m3u8
 #EXTINF:-1,Fox Movies (TH)
-https://doofootball.livestream-cdn.com/iptv/hd-foxpremium.stream/chunks.m3u8
+http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,Fox Action Movies (TH)
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 #EXTINF:-1,Warner TV (TH)
@@ -683,195 +683,195 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl5_480p/chunk
 http://103.245.164.105:1935/aplay/disneych/playlist.m3u8
 #EXTINF:-1,test_CH5
 http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
-#EXTINF:-1,CH 1
+EXTINF:-1,test_CH 1
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
-#EXTINF:-1,CH 2
+#EXTINF:-1,test_CH 2
 http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
-#EXTINF:-1,CH 3
+#EXTINF:-1,test_CH 3
 http://thaicable.myftp.org:8000/live/infosat/2020/3.ts
-#EXTINF:-1,CH 4
+#EXTINF:-1,test_CH 4
 http://thaicable.myftp.org:8000/live/infosat/2020/4.ts
-#EXTINF:-1,CH 5
+#EXTINF:-1,test_CH 5
 http://thaicable.myftp.org:8000/live/infosat/2020/5.ts
-#EXTINF:-1,CH 6
+#EXTINF:-1,test_CH 6
 http://thaicable.myftp.org:8000/live/infosat/2020/6.ts
-#EXTINF:-1,CH 7
+#EXTINF:-1,test_CH 7
 http://thaicable.myftp.org:8000/live/infosat/2020/7.ts
-#EXTINF:-1,CH 8
+#EXTINF:-1,test_CH 8
 http://thaicable.myftp.org:8000/live/infosat/2020/8.ts
-#EXTINF:-1,CH 9
+#EXTINF:-1,test_CH 9
 http://thaicable.myftp.org:8000/live/infosat/2020/9.ts
-#EXTINF:-1,CH 10
+#EXTINF:-1,test_CH 10
 http://thaicable.myftp.org:8000/live/infosat/2020/10.ts
-#EXTINF:-1,CH 11
+#EXTINF:-1,test_CH 11
 http://thaicable.myftp.org:8000/live/infosat/2020/11.ts
-#EXTINF:-1,CH 12
+#EXTINF:-1,test_CH 12
 http://thaicable.myftp.org:8000/live/infosat/2020/12.ts
-#EXTINF:-1,CH 13
+#EXTINF:-1,test_CH 13
 http://thaicable.myftp.org:8000/live/infosat/2020/13.ts
-#EXTINF:-1,CH 14
+#EXTINF:-1,test_CH 14
 http://thaicable.myftp.org:8000/live/infosat/2020/14.ts
-#EXTINF:-1,CH 15
+#EXTINF:-1,test_CH 15
 http://thaicable.myftp.org:8000/live/infosat/2020/15.ts
-#EXTINF:-1,CH 16
+#EXTINF:-1,test_CH 16
 http://thaicable.myftp.org:8000/live/infosat/2020/16.ts
-#EXTINF:-1,CH 17
+#EXTINF:-1,test_CH 17
 http://thaicable.myftp.org:8000/live/infosat/2020/17.ts
-#EXTINF:-1,CH 18
+#EXTINF:-1,test_CH 18
 http://thaicable.myftp.org:8000/live/infosat/2020/18.ts
-#EXTINF:-1,CH 19
+#EXTINF:-1,test_CH 19
 http://thaicable.myftp.org:8000/live/infosat/2020/19.ts
-#EXTINF:-1,CH 20
+#EXTINF:-1,test_CH 20
 http://thaicable.myftp.org:8000/live/infosat/2020/20.ts
-#EXTINF:-1,CH 21
+#EXTINF:-1,test_CH 21
 http://thaicable.myftp.org:8000/live/infosat/2020/21.ts
-#EXTINF:-1,CH 22
+#EXTINF:-1,test_CH 22
 http://thaicable.myftp.org:8000/live/infosat/2020/22.ts
-#EXTINF:-1,CH 23
+#EXTINF:-1,test_CH 23
 http://thaicable.myftp.org:8000/live/infosat/2020/23.ts
-#EXTINF:-1,CH 24
+#EXTINF:-1,test_CH 24
 http://thaicable.myftp.org:8000/live/infosat/2020/24.ts
-#EXTINF:-1,CH 25
+#EXTINF:-1,test_CH 25
 http://thaicable.myftp.org:8000/live/infosat/2020/25.ts
-#EXTINF:-1,CH 26
+#EXTINF:-1,test_CH 26
 http://thaicable.myftp.org:8000/live/infosat/2020/26.ts
-#EXTINF:-1,CH 27
+#EXTINF:-1,test_CH 27
 http://thaicable.myftp.org:8000/live/infosat/2020/27.ts
-#EXTINF:-1,CH 28
+#EXTINF:-1,test_CH 28
 http://thaicable.myftp.org:8000/live/infosat/2020/28.ts
-#EXTINF:-1,CH 29
+#EXTINF:-1,test_CH 29
 http://thaicable.myftp.org:8000/live/infosat/2020/29.ts
-#EXTINF:-1,CH 30
+#EXTINF:-1,test_CH 30
 http://thaicable.myftp.org:8000/live/infosat/2020/30.ts
-#EXTINF:-1,CH 31
+#EXTINF:-1,test_CH 31
 http://thaicable.myftp.org:8000/live/infosat/2020/31.ts
-#EXTINF:-1,CH 32
+#EXTINF:-1,test_CH 32
 http://thaicable.myftp.org:8000/live/infosat/2020/32.ts
-#EXTINF:-1,CH 33
+#EXTINF:-1,test_CH 33
 http://thaicable.myftp.org:8000/live/infosat/2020/33.ts
-#EXTINF:-1,CH 34
+#EXTINF:-1,test_CH 34
 http://thaicable.myftp.org:8000/live/infosat/2020/34.ts
-#EXTINF:-1,CH 35
+#EXTINF:-1,test_CH 35
 http://thaicable.myftp.org:8000/live/infosat/2020/35.ts
-#EXTINF:-1,CH 36
+#EXTINF:-1,test_CH 36
 http://thaicable.myftp.org:8000/live/infosat/2020/36.ts
-#EXTINF:-1,CH 37
+#EXTINF:-1,test_CH 37
 http://thaicable.myftp.org:8000/live/infosat/2020/37.ts
-#EXTINF:-1,CH 38
+#EXTINF:-1,test_CH 38
 http://thaicable.myftp.org:8000/live/infosat/2020/38.ts
-#EXTINF:-1,CH 39
+#EXTINF:-1,test_CH 39
 http://thaicable.myftp.org:8000/live/infosat/2020/39.ts
-#EXTINF:-1,CH 40
+#EXTINF:-1,test_CH 40
 http://thaicable.myftp.org:8000/live/infosat/2020/40.ts
-#EXTINF:-1,CH 41
+#EXTINF:-1,test_CH 41
 http://thaicable.myftp.org:8000/live/infosat/2020/41.ts
-#EXTINF:-1,CH 42
+#EXTINF:-1,test_CH 42
 http://thaicable.myftp.org:8000/live/infosat/2020/42.ts
-#EXTINF:-1,CH 43
+#EXTINF:-1,test_CH 43
 http://thaicable.myftp.org:8000/live/infosat/2020/43.ts
-#EXTINF:-1,CH 44
+#EXTINF:-1,test_CH 44
 http://thaicable.myftp.org:8000/live/infosat/2020/44.ts
-#EXTINF:-1,CH 45
+#EXTINF:-1,test_CH 45
 http://thaicable.myftp.org:8000/live/infosat/2020/45.ts
-#EXTINF:-1,CH 46
+#EXTINF:-1,test_CH 46
 http://thaicable.myftp.org:8000/live/infosat/2020/46.ts
-#EXTINF:-1,CH 47
+#EXTINF:-1,test_CH 47
 http://thaicable.myftp.org:8000/live/infosat/2020/47.ts
-#EXTINF:-1,CH 48
+#EXTINF:-1,test_CH 48
 http://thaicable.myftp.org:8000/live/infosat/2020/48.ts
-#EXTINF:-1,CH 49
+#EXTINF:-1,test_CH 49
 http://thaicable.myftp.org:8000/live/infosat/2020/49.ts
-#EXTINF:-1,CH 50
+#EXTINF:-1,test_CH 50
 http://thaicable.myftp.org:8000/live/infosat/2020/50.ts
-#EXTINF:-1,CH 51
+#EXTINF:-1,test_CH 51
 http://thaicable.myftp.org:8000/live/infosat/2020/51.ts
-#EXTINF:-1,CH 52
+#EXTINF:-1,test_CH 52
 http://thaicable.myftp.org:8000/live/infosat/2020/52.ts
-#EXTINF:-1,CH 53
+#EXTINF:-1,test_CH 53
 http://thaicable.myftp.org:8000/live/infosat/2020/53.ts
-#EXTINF:-1,CH 54
+#EXTINF:-1,test_CH 54
 http://thaicable.myftp.org:8000/live/infosat/2020/54.ts
-#EXTINF:-1,CH 55
+#EXTINF:-1,test_CH 55
 http://thaicable.myftp.org:8000/live/infosat/2020/55.ts
-#EXTINF:-1,CH 56
+#EXTINF:-1,test_CH 56
 http://thaicable.myftp.org:8000/live/infosat/2020/56.ts
-#EXTINF:-1,CH 57
+#EXTINF:-1,test_CH 57
 http://thaicable.myftp.org:8000/live/infosat/2020/57.ts
-#EXTINF:-1,CH 58
+#EXTINF:-1,test_CH 58
 http://thaicable.myftp.org:8000/live/infosat/2020/58.ts
-#EXTINF:-1,CH 59
+#EXTINF:-1,test_CH 59
 http://thaicable.myftp.org:8000/live/infosat/2020/59.ts
-#EXTINF:-1,CH 60
+#EXTINF:-1,test_CH 60
 http://thaicable.myftp.org:8000/live/infosat/2020/60.ts
-#EXTINF:-1,CH 61
+#EXTINF:-1,test_CH 61
 http://thaicable.myftp.org:8000/live/infosat/2020/61.ts
-#EXTINF:-1,CH 62
+#EXTINF:-1,test_CH 62
 http://thaicable.myftp.org:8000/live/infosat/2020/62.ts
-#EXTINF:-1,CH 63
+#EXTINF:-1,test_CH 63
 http://thaicable.myftp.org:8000/live/infosat/2020/3.ts
-#EXTINF:-1,CH 64
+#EXTINF:-1,test_CH 64
 http://thaicable.myftp.org:8000/live/infosat/2020/4.ts
-#EXTINF:-1,CH 65
+#EXTINF:-1,test_CH 65
 http://thaicable.myftp.org:8000/live/infosat/2020/65.ts
-#EXTINF:-1,CH 66
+#EXTINF:-1,test_CH 66
 http://thaicable.myftp.org:8000/live/infosat/2020/66.ts
-#EXTINF:-1,CH 67
+#EXTINF:-1,test_CH 67
 http://thaicable.myftp.org:8000/live/infosat/2020/67.ts
-#EXTINF:-1,CH 68
+#EXTINF:-1,test_CH 68
 http://thaicable.myftp.org:8000/live/infosat/2020/68.ts
-#EXTINF:-1,CH 69
+#EXTINF:-1,test_CH 69
 http://thaicable.myftp.org:8000/live/infosat/2020/69.ts
-#EXTINF:-1,CH 70
+#EXTINF:-1,test_CH 70
 http://thaicable.myftp.org:8000/live/infosat/2020/70.ts
-#EXTINF:-1,CH 71
+#EXTINF:-1,test_CH 71
 http://thaicable.myftp.org:8000/live/infosat/2020/71.ts
-#EXTINF:-1,CH 72
+#EXTINF:-1,test_CH 72
 http://thaicable.myftp.org:8000/live/infosat/2020/72.ts
-#EXTINF:-1,CH 73
+#EXTINF:-1,test_CH 73
 http://thaicable.myftp.org:8000/live/infosat/2020/73.ts
-#EXTINF:-1,CH 74
+#EXTINF:-1,test_CH 74
 http://thaicable.myftp.org:8000/live/infosat/2020/74.ts
-#EXTINF:-1,CH 75
+#EXTINF:-1,test_CH 75
 http://thaicable.myftp.org:8000/live/infosat/2020/75.ts
-#EXTINF:-1,CH 76
+#EXTINF:-1,test_CH 76
 http://thaicable.myftp.org:8000/live/infosat/2020/76.ts
-#EXTINF:-1,CH 77
+#EXTINF:-1,test_CH 77
 http://thaicable.myftp.org:8000/live/infosat/2020/77.ts
-#EXTINF:-1,CH 78
+#EXTINF:-1,test_CH 78
 http://thaicable.myftp.org:8000/live/infosat/2020/78.ts
-#EXTINF:-1,CH 79
+#EXTINF:-1,test_CH 79
 http://thaicable.myftp.org:8000/live/infosat/2020/79.ts
-#EXTINF:-1,CH 80
+#EXTINF:-1,test_CH 80
 http://thaicable.myftp.org:8000/live/infosat/2020/80.ts
-#EXTINF:-1,CH 81
+#EXTINF:-1,test_CH 81
 http://thaicable.myftp.org:8000/live/infosat/2020/81.ts
-#EXTINF:-1,CH 82
+#EXTINF:-1,test_CH 82
 http://thaicable.myftp.org:8000/live/infosat/2020/82.ts
-#EXTINF:-1,CH 83
+#EXTINF:-1,test_CH 83
 http://thaicable.myftp.org:8000/live/infosat/2020/83.ts
-#EXTINF:-1,CH 84
+#EXTINF:-1,test_CH 84
 http://thaicable.myftp.org:8000/live/infosat/2020/84.ts
-#EXTINF:-1,CH 85
+#EXTINF:-1,test_CH 85
 http://thaicable.myftp.org:8000/live/infosat/2020/85.ts
-#EXTINF:-1,CH 86
+#EXTINF:-1,test_CH 86
 http://thaicable.myftp.org:8000/live/infosat/2020/86.ts
-#EXTINF:-1,CH 87
+#EXTINF:-1,test_CH 87
 http://thaicable.myftp.org:8000/live/infosat/2020/87.ts
-#EXTINF:-1,CH 88
+#EXTINF:-1,test_CH 88
 http://thaicable.myftp.org:8000/live/infosat/2020/88.ts
-#EXTINF:-1,CH 89
+#EXTINF:-1,test_CH 89
 http://thaicable.myftp.org:8000/live/infosat/2020/89.ts
-#EXTINF:-1,CH 90
+#EXTINF:-1,test_CH 90
 http://thaicable.myftp.org:8000/live/infosat/2020/90.ts
-#EXTINF:-1,CH 91
+#EXTINF:-1,test_CH 91
 http://thaicable.myftp.org:8000/live/infosat/2020/91.ts
-#EXTINF:-1,CH 92
+#EXTINF:-1,test_CH 92
 http://thaicable.myftp.org:8000/live/infosat/2020/92.ts
-#EXTINF:-1,CH 93
+#EXTINF:-1,test_CH 93
 http://thaicable.myftp.org:8000/live/infosat/2020/93.ts
-#EXTINF:-1,CH 94
+#EXTINF:-1,test_CH 94
 http://thaicable.myftp.org:8000/live/infosat/2020/94.ts
-#EXTINF:-1,CH 95
+#EXTINF:-1,test_CH 95
 http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
 #EXTINF:-1,อัพเดท 03/01/2564
 http://

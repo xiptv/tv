@@ -45,18 +45,22 @@ https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 https://edge-n2.worldwidetv.club/b4Vwk8jU6HoqjwGKLbeSPA/1608973438/live-o33-th-abr/hd-paramount/playlist.m3u8
 #EXTINF:-1,Fox Movies (TH)
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
+#EXTINF:-1,Fox Family Movies (TH)
+http://thaicable.myftp.org:8000/live/infosat/2020/22.ts
 #EXTINF:-1,Fox Action Movies (TH)
-https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
+http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
+#EXTINF:-1,Cinemax (TH)
+http://thaicable.myftp.org:8000/live/infosat/2020/24.ts
 #EXTINF:-1,Warner TV (TH)
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8nks.m3u8
 #EXTINF:-1,AXN (TH)
 https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO HD
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+http://thaicable.myftp.org:8000/live/infosat/2020/3.ts
 #EXTINF:-1,HBO Family
 https://dootvgun.com/hbotv/hbofam/playlist.m3u8
 #EXTINF:-1,HBO Signature
-https://dootvgun.com/hbotv/hbosig/playlist.m3u8
+http://thaicable.myftp.org:8000/live/infosat/2020/29.ts
 #EXTINF:-1,Red by HBO
 https://dootvgun.com/hbotv/hbored/playlist.m3u8
 #EXTINF:-1,HBO Hits

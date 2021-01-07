@@ -42,7 +42,7 @@ https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 #EXTINF:-1,ราม่า
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 #EXTINF:-1,Paramount (TH)
-https://edge-n2.worldwidetv.club/b4Vwk8jU6HoqjwGKLbeSPA/1608973438/live-o33-th-abr/hd-paramount/playlist.m3u8
+https://cdn-edge-sg2.idoohd.com/play/1894d39852c7d5275b4e0b2614e512f5/b7412a8833a8469cf3222617f55ed926/1610046155/playlist.m3u8
 #EXTINF:-1,Fox Movies (TH)
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,Fox Family Movies (TH)
@@ -877,5 +877,11 @@ http://thaicable.myftp.org:8000/live/infosat/2020/93.ts
 http://thaicable.myftp.org:8000/live/infosat/2020/94.ts
 #EXTINF:-1,test_CH 95
 http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
+#EXTINF:-1,test_true Movie HITs
+https://cdn-edge-sg2.idoohd.com/play/a58ba27ec7d163555d409a9831534f76/f1b4098a57967557f156639bfe75c6fa/1610045460/playlist.m3u8
+#EXTINF:-1,test_true Flim HD
+https://cdn-edge-sg3.iptv4k.tv/play/cf4772a14b07b2bf33f11e773ac2f83f/04f56745ab0b9f4d86a4145bf86b6b1f/1610045614/playlist.m3u8
+#EXTINF:-1,test_true Flim HD2
+https://cdn-edge-sg3.iptv4k.tv/play/42ba7fb93f75d29314b07d2d0e2123a0/5e2f1ebc15ae2d0526e2402b9c9e52b8/1610045706/playlist.m3u8
 #EXTINF:-1,อัพเดท 03/01/2564
 http://

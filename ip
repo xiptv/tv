@@ -887,5 +887,7 @@ https://cdn-edge-sg3.iptv4k.tv/play/42ba7fb93f75d29314b07d2d0e2123a0/5e2f1ebc15a
 https://cdn-edge-sg3.iptv4k.tv/play/7eebbe6364865cc7e91fd0989facbf43/16a5e3f55b809e5ddc6092f879bb163f/1610046755/playlist.m3u8
 #EXTINF:-1,test_AXN
 https://cdn-edge-sg3.iptv4k.tv/play/d59a163b984d3d58d2d0ef31f3c6680b/dd4c813d8e5a7ee066f793138040f4d8/1610046992/playlist.m3u8
+#EXTINF:-1,test_true Inside
+https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8
 #EXTINF:-1,อัพเดท 03/01/2564
 http://

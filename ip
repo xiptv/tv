@@ -21,6 +21,8 @@ https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8
 #EXTINF:-1,Box Film
 https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+#EXTINF:-1,CCM
+https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8
 #EXTINF:-1,MONO29 HD
 https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1,M Channel

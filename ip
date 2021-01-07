@@ -7,6 +7,12 @@ http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1,true FILM HD
 http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
+#EXTINF:-1,true Flim HD (Backup)
+https://cdn-edge-sg3.iptv4k.tv/play/cf4772a14b07b2bf33f11e773ac2f83f/04f56745ab0b9f4d86a4145bf86b6b1f/1610045614/playlist.m3u8
+#EXTINF:-1,true Flim HD2
+https://cdn-edge-sg3.iptv4k.tv/play/42ba7fb93f75d29314b07d2d0e2123a0/5e2f1ebc15ae2d0526e2402b9c9e52b8/1610045706/playlist.m3u8
+#EXTINF:-1,true MOVIE HITS
+https://cdn-edge-sg2.idoohd.com/play/a58ba27ec7d163555d409a9831534f76/f1b4098a57967557f156639bfe75c6fa/1610045460/playlist.m3u8
 #EXTINF:-1,true Thai FILM
 http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
 #EXTINF:-1,true Asian Series HD
@@ -48,13 +54,13 @@ http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,Fox Family Movies (TH)
 http://thaicable.myftp.org:8000/live/infosat/2020/22.ts
 #EXTINF:-1,Fox Action Movies (TH)
-http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
+https://cdn-edge-sg3.iptv4k.tv/play/7eebbe6364865cc7e91fd0989facbf43/16a5e3f55b809e5ddc6092f879bb163f/1610046755/playlist.m3u8
 #EXTINF:-1,Cinemax (TH)
 http://thaicable.myftp.org:8000/live/infosat/2020/24.ts
 #EXTINF:-1,Warner TV (TH)
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8nks.m3u8
 #EXTINF:-1,AXN (TH)
-https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+https://cdn-edge-sg3.iptv4k.tv/play/d59a163b984d3d58d2d0ef31f3c6680b/dd4c813d8e5a7ee066f793138040f4d8/1610046992/playlist.m3u8
 #EXTINF:-1,HBO HD
 http://thaicable.myftp.org:8000/live/infosat/2020/3.ts
 #EXTINF:-1,HBO Family
@@ -79,6 +85,8 @@ https://cdn6.goprimetime.info/feed/CAT/index.m3u8
 https://edge-n7.worldwidetv.club/SOjPk5tgaoy0FFJ6wxVFUQ/1608972870/live-o33-th-abr/hd-rtlcbs/playlist.m3u8
 #EXTINF:-1,KBS World
 https://edge-n7.worldwidetv.club/eg954nTqwYIZtGOgeO3Udw/1608973181/live-o33-th-abr/hd-kbsworld/playlist.m3u8
+#EXTINF:-1,true Inside
+https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8
 #EXTINF:-1,True Music
 https://www.livedoomovies.com/02_TRUEMUSIC_720p/chunklist.m3u8
 #EXTINF:-1,MUSIC FOR YOU
@@ -877,17 +885,5 @@ http://thaicable.myftp.org:8000/live/infosat/2020/93.ts
 http://thaicable.myftp.org:8000/live/infosat/2020/94.ts
 #EXTINF:-1,test_CH 95
 http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
-#EXTINF:-1,test_true MOVIE HITS
-https://cdn-edge-sg2.idoohd.com/play/a58ba27ec7d163555d409a9831534f76/f1b4098a57967557f156639bfe75c6fa/1610045460/playlist.m3u8
-#EXTINF:-1,test_true Flim HD
-https://cdn-edge-sg3.iptv4k.tv/play/cf4772a14b07b2bf33f11e773ac2f83f/04f56745ab0b9f4d86a4145bf86b6b1f/1610045614/playlist.m3u8
-#EXTINF:-1,test_true Flim HD2
-https://cdn-edge-sg3.iptv4k.tv/play/42ba7fb93f75d29314b07d2d0e2123a0/5e2f1ebc15ae2d0526e2402b9c9e52b8/1610045706/playlist.m3u8
-#EXTINF:-1,test_Fox Action Movie
-https://cdn-edge-sg3.iptv4k.tv/play/7eebbe6364865cc7e91fd0989facbf43/16a5e3f55b809e5ddc6092f879bb163f/1610046755/playlist.m3u8
-#EXTINF:-1,test_AXN
-https://cdn-edge-sg3.iptv4k.tv/play/d59a163b984d3d58d2d0ef31f3c6680b/dd4c813d8e5a7ee066f793138040f4d8/1610046992/playlist.m3u8
-#EXTINF:-1,test_true Inside
-https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8
 #EXTINF:-1,อัพเดท 03/01/2564
 http://

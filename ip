@@ -17,6 +17,8 @@ https://cdn-edge-sg2.idoohd.com/play/a58ba27ec7d163555d409a9831534f76/f1b4098a57
 http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
 #EXTINF:-1,true Asian Series HD
 https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
+#EXTINF:-1,true Series
+https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8
 #EXTINF:-1,Box Film
 https://cdn6.goprimetime.info/feed/LC52/index.m3u8
 #EXTINF:-1,MONO29 HD

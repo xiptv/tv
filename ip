@@ -63,6 +63,8 @@ http://thaicable.myftp.org:8000/live/infosat/2020/24.ts
 https://cdn-edge-sg3.iptv4k.tv/play/602f1399a24463940bfc44a3be4e7210/4b5158c9be0951a32178f2257507a581/1610054532/playlist.m3u8
 #EXTINF:-1,AXN (TH)
 https://cdn-edge-sg3.iptv4k.tv/play/d59a163b984d3d58d2d0ef31f3c6680b/dd4c813d8e5a7ee066f793138040f4d8/1610046992/playlist.m3u8
+#EXTINF:-1,TVN (TH)
+https://cdn-edge-sg2.idoohd.com/play/dfb9580c1d967b270f2dfead4f14fb67/ebb4d7d351270e1a42a198cae27af01d/1610055752/playlist.m3u8
 #EXTINF:-1,HBO HD
 http://thaicable.myftp.org:8000/live/infosat/2020/3.ts
 #EXTINF:-1,HBO Family

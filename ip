@@ -48,17 +48,17 @@ https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 #EXTINF:-1,ราม่า
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
 #EXTINF:-1,Paramount (TH)
-https://cdn-edge-sg2.idoohd.com/play/1894d39852c7d5275b4e0b2614e512f5/b7412a8833a8469cf3222617f55ed926/1610046155/playlist.m3u8
+https://cdn-edge-sg2.idoohd.com/play/1894d39852c7d5275b4e0b2614e512f5/0d7f41677e3ed74b1cd87c573caed232/1610054388/playlist.m3u8
 #EXTINF:-1,Fox Movies (TH)
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,Fox Family Movies (TH)
-http://thaicable.myftp.org:8000/live/infosat/2020/22.ts
+https://cdn-edge-sg3.iptv4k.tv/play/4ca59cc19e66ace551370b0c8176394e/1f639ad611a507dad298dbee85d44b73/1610054310/playlist.m3u8
 #EXTINF:-1,Fox Action Movies (TH)
 https://cdn-edge-sg3.iptv4k.tv/play/7eebbe6364865cc7e91fd0989facbf43/16a5e3f55b809e5ddc6092f879bb163f/1610046755/playlist.m3u8
 #EXTINF:-1,Cinemax (TH)
 http://thaicable.myftp.org:8000/live/infosat/2020/24.ts
 #EXTINF:-1,Warner TV (TH)
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8nks.m3u8
+https://cdn-edge-sg3.iptv4k.tv/play/602f1399a24463940bfc44a3be4e7210/4b5158c9be0951a32178f2257507a581/1610054532/playlist.m3u8
 #EXTINF:-1,AXN (TH)
 https://cdn-edge-sg3.iptv4k.tv/play/d59a163b984d3d58d2d0ef31f3c6680b/dd4c813d8e5a7ee066f793138040f4d8/1610046992/playlist.m3u8
 #EXTINF:-1,HBO HD
@@ -84,7 +84,7 @@ https://cdn6.goprimetime.info/feed/CAT/index.m3u8
 #EXTINF:-1,RTL CBS
 https://edge-n7.worldwidetv.club/SOjPk5tgaoy0FFJ6wxVFUQ/1608972870/live-o33-th-abr/hd-rtlcbs/playlist.m3u8
 #EXTINF:-1,KBS World
-https://edge-n7.worldwidetv.club/eg954nTqwYIZtGOgeO3Udw/1608973181/live-o33-th-abr/hd-kbsworld/playlist.m3u8
+https://cdn-edge-sg2.idoohd.com/play/8ee74b728195a11a2cd575e1e327dd0b/f50df39b397cd31d3cb18af16ea83207/1610054430/playlist.m3u8
 #EXTINF:-1,true Inside
 https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8
 #EXTINF:-1,True Music

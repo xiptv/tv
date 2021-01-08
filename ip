@@ -102,7 +102,7 @@ http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,MTV
-https://cdn6.goprimetime.info/feed/LC3/index.m3u8
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,MTV Hits
 http://youriptv.tv:8080/live/ARGENTINA/Nicetry8888/39255.m3u8
 #EXTINF:-1,MTV Live HD

@@ -47,6 +47,16 @@ http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
 #EXTINF:-1,Premier HD5
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1,test_Premier 1
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 2
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl2_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 3
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl3_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 4
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl4_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 5
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl5_480p/chunks.m3u8
 #EXTINF:-1,true Sports 1
 http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
 #EXTINF:-1,true Sports 2
@@ -79,6 +89,22 @@ http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1,Sky Racing 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1,PREMIER SPORTS
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
+#EXTINF:-1,SPORTS TV1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,EUROSPORT 4K 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
 #EXTINF:-1,EUROSPORT 4K 2
@@ -179,22 +205,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-176400&checkedby
 #EXTINF:-1,EUROSPORT 4K 50
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000&checkedby
-#EXTINF:-1,SKY SPORTS PREMIER
-http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
-http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF:-1,PREMIER SPORTS
-http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
-#EXTINF:-1,SPORTS TV1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1,SPORTS TV2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1,SPORTS TV3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1,SPORTS TV4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1,SPORTS TV5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 EXTINF:-1,test_CH 1
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,test_CH 2

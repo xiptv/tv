@@ -1,0 +1,895 @@
+#EXTM3U
+#EXTINF:-1,CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1,Channel 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,Fox ไทย
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1,true FILM HD
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
+#EXTINF:-1,true Flim HD (Backup)
+https://cdn-edge-sg3.iptv4k.tv/play/cf4772a14b07b2bf33f11e773ac2f83f/04f56745ab0b9f4d86a4145bf86b6b1f/1610045614/playlist.m3u8
+#EXTINF:-1,true Flim HD2
+https://cdn-edge-sg3.iptv4k.tv/play/42ba7fb93f75d29314b07d2d0e2123a0/5e2f1ebc15ae2d0526e2402b9c9e52b8/1610045706/playlist.m3u8
+#EXTINF:-1,true MOVIE HITS
+https://cdn-edge-sg2.idoohd.com/play/a58ba27ec7d163555d409a9831534f76/f1b4098a57967557f156639bfe75c6fa/1610045460/playlist.m3u8
+#EXTINF:-1,true Thai FILM
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+#EXTINF:-1,true Asian Series HD
+https://doofootball.livestream-cdn.com/iptv/hd-asian.stream/chunks.m3u8
+#EXTINF:-1,true Series
+https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8
+#EXTINF:-1,Box Film
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+#EXTINF:-1,CCM
+https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8
+#EXTINF:-1,MONO29 HD
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1,M Channel
+https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
+#EXTINF:-1,TVB ไทย
+https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8
+#EXTINF:-1,SUN MOVIE
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8
+#EXTINF:-1,SAMURAI MOVIE
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+#EXTINF:-1,JKN TV
+https://cdn6.goprimetime.info/feed/LC24/index.m3u8
+#EXTINF:-1,ZEE หนัง
+https://cdn6.goprimetime.info/feed/LC5/index.m3u8
+#EXTINF:-1,IS TV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+#EXTINF:-1,Hits
+https://www.livedoomovie.com/02_HITS_720p/chunklist.m3u8
+#EXTINF:-1,Hits Movies
+https://www.livedoomovie.com/02_HITSMOVIE_720p/chunklist.m3u8
+#EXTINF:-1,สยาม
+https://edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/playlist.m3u8
+#EXTINF:-1,ลิโด้
+https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
+#EXTINF:-1,สกาล่า
+https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
+#EXTINF:-1,ราม่า
+https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
+#EXTINF:-1,Paramount (TH)
+https://cdn-edge-sg2.idoohd.com/play/1894d39852c7d5275b4e0b2614e512f5/0d7f41677e3ed74b1cd87c573caed232/1610054388/playlist.m3u8
+#EXTINF:-1,Fox Movies (TH)
+http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
+#EXTINF:-1,Fox Family Movies (TH)
+https://cdn-edge-sg3.iptv4k.tv/play/4ca59cc19e66ace551370b0c8176394e/1f639ad611a507dad298dbee85d44b73/1610054310/playlist.m3u8
+#EXTINF:-1,Fox Action Movies (TH)
+https://cdn-edge-sg3.iptv4k.tv/play/7eebbe6364865cc7e91fd0989facbf43/16a5e3f55b809e5ddc6092f879bb163f/1610046755/playlist.m3u8
+#EXTINF:-1,Cinemax (TH)
+http://thaicable.myftp.org:8000/live/infosat/2020/24.ts
+#EXTINF:-1,Warner TV (TH)
+https://cdn-edge-sg3.iptv4k.tv/play/602f1399a24463940bfc44a3be4e7210/4b5158c9be0951a32178f2257507a581/1610054532/playlist.m3u8
+#EXTINF:-1,AXN (TH)
+https://cdn-edge-sg3.iptv4k.tv/play/d59a163b984d3d58d2d0ef31f3c6680b/dd4c813d8e5a7ee066f793138040f4d8/1610046992/playlist.m3u8
+#EXTINF:-1,TVN (TH)
+https://cdn-edge-sg2.idoohd.com/play/dfb9580c1d967b270f2dfead4f14fb67/ebb4d7d351270e1a42a198cae27af01d/1610055752/playlist.m3u8
+#EXTINF:-1,HBO HD
+http://thaicable.myftp.org:8000/live/infosat/2020/3.ts
+#EXTINF:-1,HBO Family
+https://dootvgun.com/hbotv/hbofam/playlist.m3u8
+#EXTINF:-1,HBO Signature
+http://thaicable.myftp.org:8000/live/infosat/2020/29.ts
+#EXTINF:-1,Red by HBO
+https://dootvgun.com/hbotv/hbored/playlist.m3u8
+#EXTINF:-1,HBO Hits
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1,wwe
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1,MVTV
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/playlist.m3u8
+#EXTINF:-1,MV Laos
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+#EXTINF:-1,MV Myanmar
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+#EXTINF:-1,CAT Channel HD
+https://cdn6.goprimetime.info/feed/CAT/index.m3u8
+#EXTINF:-1,RTL CBS
+https://edge-n7.worldwidetv.club/SOjPk5tgaoy0FFJ6wxVFUQ/1608972870/live-o33-th-abr/hd-rtlcbs/playlist.m3u8
+#EXTINF:-1,KBS World
+https://cdn-edge-sg2.idoohd.com/play/8ee74b728195a11a2cd575e1e327dd0b/f50df39b397cd31d3cb18af16ea83207/1610054430/playlist.m3u8
+#EXTINF:-1,true Inside
+https://streaming.livescorethai.net/iptv/sd-inside.stream/chunks.m3u8
+#EXTINF:-1,True Music
+https://www.livedoomovies.com/02_TRUEMUSIC_720p/chunklist.m3u8
+#EXTINF:-1,MUSIC FOR YOU
+http://203.154.243.89:1213
+#EXTINF:-1,Retro Music TV
+http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554622_b750000.m3u8
+#EXTINF:-1,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,MTV Hits
+http://youriptv.tv:8080/live/ARGENTINA/Nicetry8888/39255.m3u8
+#EXTINF:-1,MTV Live HD
+https://cdn6.goprimetime.info/feed/LC31/index.m3u8
+#EXTINF:-1,Channel [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,M2OTV
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1,Mooz HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/18.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
+#EXTINF:-1,Mooz Dance HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,Mooz Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,Mooz RO!
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1,Animax (TH)
+https://cdn6.goprimetime.info/feed/LC38/index.m3u8
+#EXTINF:-1,Cartoon Network
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1,Disney Channel
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1,SPARKJUMP
+http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
+#EXTINF:-1,SPARKPLAY
+http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
+#EXTINF:-1,Boomerang
+https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
+#EXTINF:-1,TooNEE
+https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
+#EXTINF:-1,TooNEE (Backup)
+https://cdn6.goprimetime.info/feed/LC23/index.m3u8
+#EXTINF:-1,Cartoon Club HD
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1,Cartoon Club HD (Backup)
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+#EXTINF:-1,SANOOK MOVIE
+https://cdn6.goprimetime.info/feed/LC53/index.m3u8
+#EXTINF:-1,Charoen Cable TV HD
+https://cdn6.goprimetime.info/feed/LC32/index.m3u8
+#EXTINF:-1,History (TH)
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1,H2 (TH)
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1,Animal Planet (TH)
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,สำรวจโลก
+https://cdn6.goprimetime.info/feed/LC8/index.m3u8
+#EXTINF:-1,PSI สาระดี
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1,BBC EARTH (TH)
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:-1,Discovery Asia (TH)
+https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+#EXTINF:-1,Discovery Channel (TH)
+https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1,World Animal (TH)
+http://203.154.243.89:1201
+#EXTINF:-1,World Science (TH)
+http://203.154.243.32:8088/live/wsci/index.m3u8
+#EXTINF:-1,Nat Geo (TH)
+https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:-1,Nat Geo Wild (TH)
+https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,true EXPLORE WILD
+https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
+#EXTINF:-1,true EXPLORE LIFE
+https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
+#EXTINF:-1,true X-ZYTE
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
+#EXTINF:-1,true History
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1,Premier HD1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1,Premier HD1 (Backup)
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1,Premier HD1 (Backup)
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+#EXTINF:-1,Premier HD2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1,Premier HD2 (Backup)
+https://doofootball.livestream-cdn.com/iptv/epl-2.stream/playlist.m3u8
+#EXTINF:-1,Premier HD2 (Backup)
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+#EXTINF:-1,Premier HD3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1,Premier HD3 (Backup)
+http://ip2121.com:8081/at1/ENG3/chunks.m3u8
+#EXTINF:-1,Premier HD3 (Backup)
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
+#EXTINF:-1,Premier HD4
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1,Premier HD4 (Backup)
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
+#EXTINF:-1,Premier HD5
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1,Premier HD5 (Backup)
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+#EXTINF:-1,true Sports HD1
+https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1,true Sports HD1 (Backup)
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+#EXTINF:-1,true Sports HD2
+https://doofootball.livestream-cdn.com/iptv/hd-tsport2.stream/playlist.m3u8
+#EXTINF:-1,true Sports HD3
+https://doofootball.livestream-cdn.com/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1,true Sports HD4
+https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/playlist.m3u8
+#EXTINF:-1,true Sports 1
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+#EXTINF:-1,true Sports 2
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1,true Sports 3
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+#EXTINF:-1,true Sports 4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:-1,true Sports 5
+http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
+#EXTINF:-1,true Sports 5
+https://doofootball.livestream-cdn.com/iptv/sd-tsport5.stream/playlist.m3u8
+#EXTINF:-1,true Sports 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1,true Sports 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1,Fox Sports 1
+https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
+#EXTINF:-1,Fox Sports 3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+#EXTINF:-1,astro SuperSport 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,astro SuperSport 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,astro SuperSport 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,astro SuperSport 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1,astro SuperSport 1
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1,astro SuperSport 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
+#EXTINF:-1,Eurosport 1 (Backup)
+https://doofootball.livestream-cdn.com/iptv/uk-eurosport.stream/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:-1,beIN SPORTS Extra
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1,beIN SPORTS HD 1
+http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
+#EXTINF:-1,beIN SPORTS HD 2
+http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8
+#EXTINF:-1,beIN SPORTS HD 3
+http://dx3.gcdn.co/BEINSPORTSES/index.m3u8
+#EXTINF:-1,beIN SPORTS HD 4
+http://dx3.gcdn.co/BEINSPORTSMAX4/index.m3u8
+#EXTINF:-1,beIN SPORTS HD 5
+http://dx3.gcdn.co/BEINSPORTSMAX5/index.m3u8
+#EXTINF:-1,BT SPORTS 1
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1,BT SPORTS 2
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1,BT SPORTS 3
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://160.119.77.116:8081/iptv/epl-bein1.stream/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://160.119.77.116:8081/iptv/epl-bein2.stream/playlist.m3u8
+#EXTINF:-1,OLYMPIC CH11
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,OLYMPIC CH12
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1,OLYMPIC CH21
+https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1,OLYMPIC CH41
+https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1,Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby
+#EXTINF:-1,Fox Sports News Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,ATP tennis
+http://203.154.243.89:11739/
+#EXTINF:-1,Tennis channal+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,Golf channel
+https://doofootball.livestream-cdn.com/iptv/hd-golf.stream/playlist.m3u8
+#EXTINF:-1,Golf channel (Backup)
+http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
+#EXTINF:-1,ONEGOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ONEGOLF (Backup)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1,True Tennis
+https://doofootball.livestream-cdn.com/iptv/hd-tennis.stream/playlist.m3u8
+#EXTINF:-1,True Tennis (Backup)
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1,World Of Free sports
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8 
+#EXTINF:-1,NBA HD
+https://doofootball.livestream-cdn.com/iptv/hd-nba.stream/playlist.m3u8
+#EXTINF:-1,Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1,Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1,Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1,GFS Hi Fight
+http://203.154.243.89:1422
+#EXTINF:-1,SKY SPORTS PREMIER
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:-1,SKY SPORTS NFL
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/playlist.m3u8
+#EXTINF:-1,SKY SPORTS F1
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1,SKY SPORTS ARENA
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8
+#EXTINF:-1,SKY SPORTS GOLF
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/playlist.m3u8
+#EXTINF:-1,HI HD SPORT
+http://203.154.243.89:11203
+#EXTINF:-1,Rtm sorts hd
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1,Ten sports
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w2093393586.m3u8
+#EXTINF:-1,EUROSPORT 4K 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+#EXTINF:-1,EUROSPORT 4K 2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200&checkedby
+#EXTINF:-1,EUROSPORT 4K 3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800&checkedby
+#EXTINF:-1,EUROSPORT 4K 4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400&checkedby
+#EXTINF:-1,EUROSPORT 4K 5
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000&checkedby
+#EXTINF:-1,EUROSPORT 4K 6
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600&checkedby
+#EXTINF:-1,EUROSPORT 4K 7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200&checkedby
+#EXTINF:-1,EUROSPORT 4K 8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800&checkedby
+#EXTINF:-1,EUROSPORT 4K 9
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400&checkedby
+#EXTINF:-1,EUROSPORT 4K 10
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000&checkedby
+#EXTINF:-1,EUROSPORT 4K 11
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600&checkedby
+#EXTINF:-1,EUROSPORT 4K 12
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200&checkedby
+#EXTINF:-1,EUROSPORT 4K 13
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800&checkedby
+#EXTINF:-1,EUROSPORT 4K 14
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400&checkedby
+#EXTINF:-1,EUROSPORT 4K 15
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000&checkedby
+#EXTINF:-1,EUROSPORT 4K 16
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600&checkedby
+#EXTINF:-1,EUROSPORT 4K 17
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200&checkedby
+#EXTINF:-1,EUROSPORT 4K 18
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800&checkedby
+#EXTINF:-1,EUROSPORT 4K 19
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400&checkedby
+#EXTINF:-1,EUROSPORT 4K 20
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000&checkedby
+#EXTINF:-1,EUROSPORT 4K 21
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600&checkedby
+#EXTINF:-1,EUROSPORT 4K 22
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200&checkedby
+#EXTINF:-1,EUROSPORT 4K 23
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800&checkedby
+#EXTINF:-1,EUROSPORT 4K 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400&checkedby
+#EXTINF:-1,EUROSPORT 4K 25
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000&checkedby
+#EXTINF:-1,EUROSPORT 4K 26
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600&checkedby
+#EXTINF:-1,EUROSPORT 4K 27
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200&checkedby
+#EXTINF:-1,EUROSPORT 4K 28
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800&checkedby
+#EXTINF:-1,EUROSPORT 4K 29
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400&checkedby
+#EXTINF:-1,EUROSPORT 4K 30
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000&checkedby
+#EXTINF:-1,EUROSPORT 4K 31
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600&checkedby
+#EXTINF:-1,EUROSPORT 4K 32
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200&checkedby
+#EXTINF:-1,EUROSPORT 4K 33
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800&checkedby
+#EXTINF:-1,EUROSPORT 4K 34
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400&checkedby
+#EXTINF:-1,EUROSPORT 4K 35
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000&checkedby
+#EXTINF:-1,EUROSPORT 4K 36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600&checkedby
+#EXTINF:-1,EUROSPORT 4K 37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200&checkedby
+#EXTINF:-1,EUROSPORT 4K 38
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800&checkedby
+#EXTINF:-1,EUROSPORT 4K 39
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400&checkedby
+#EXTINF:-1,EUROSPORT 4K 40
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000&checkedby
+#EXTINF:-1,EUROSPORT 4K 41
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby
+#EXTINF:-1,EUROSPORT 4K 42
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-151200&checkedby
+#EXTINF:-1,EUROSPORT 4K 43
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-154800&checkedby
+#EXTINF:-1,EUROSPORT 4K 44
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400&checkedby
+#EXTINF:-1,EUROSPORT 4K 45
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000&checkedby
+#EXTINF:-1,EUROSPORT 4K 46
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600&checkedby
+#EXTINF:-1,EUROSPORT 4K 47
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-169200&checkedby
+#EXTINF:-1,EUROSPORT 4K 48
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800&checkedby
+#EXTINF:-1,EUROSPORT 4K 49
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-176400&checkedby
+#EXTINF:-1,EUROSPORT 4K 50
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000&checkedby
+#EXTINF:-1,SKY SPORTS PREMIER
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1,PREMIER SPORTS
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
+#EXTINF:-1,SPORTS TV1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1, Sports Live 1
+https://live.5gbet.live/edge_app/ch1/playlist.m3u8?
+#EXTINF:-1, Sports Live 2
+https://live.5gbet.live/edge_app/ch2/playlist.m3u8?
+#EXTINF:-1, Sports Live 3
+https://live.5gbet.live/edge_app/ch3/playlist.m3u8?
+#EXTINF:-1, Sports Live 4
+https://live.5gbet.live/edge_app/ch4/playlist.m3u8?
+#EXTINF:-1, Sports Live 5
+https://live.5gbet.live/edge_app/ch5/playlist.m3u8?
+#EXTINF:-1, Sports Live 6
+https://live.5gbet.live/edge_app/ch6/playlist.m3u8?
+#EXTINF:-1, Sports Live 7
+https://live.5gbet.live/edge_app/ch7/playlist.m3u8?
+#EXTINF:-1, Sports Live 8
+https://live.5gbet.live/edge_app/ch8/playlist.m3u8?
+#EXTINF:-1, Sports Live 9
+https://live.5gbet.live/edge_app/ch9/playlist.m3u8?
+#EXTINF:-1, Sports Live 10
+https://live.5gbet.live/edge_app/ch10/playlist.m3u8?
+#EXTINF:-1, Sports Live 11
+https://live.5gbet.live/edge_app/ch11/playlist.m3u8?
+#EXTINF:-1, Sports Live 12
+https://live.5gbet.live/edge_app/ch12/playlist.m3u8?
+#EXTINF:-1, Sports Live 13
+https://live.5gbet.live/edge_app/ch13/playlist.m3u8?
+#EXTINF:-1, Sports Live 14
+https://live.5gbet.live/edge_app/ch14/playlist.m3u8?
+#EXTINF:-1, Sports Live 15
+https://live.5gbet.live/edge_app/ch15/playlist.m3u8?
+#EXTINF:-1, Sports Live 16
+https://live.5gbet.live/edge_app/ch16/playlist.m3u8?
+#EXTINF:-1,=== DIGITAL TV ===
+https://
+#EXTINF:-1,CH5
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1,NBT
+http://live2.dootvde.com/live/50005_nbt.stream.smil/playist.m3u8
+#EXTINF:-1,ThaiPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1,TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1,TNN16
+https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8 
+#EXTINF:-1,NEW18
+https://cdn6.goprimetime.info//feed//newtv//index.m3u8
+#EXTINF:-1,Nation
+http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
+#EXTINF:-1,Workpoint
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+#EXTINF:-1,true4U
+http://183.182.100.184/live/true4u/chunklist.m3u8
+#EXTINF:-1,GMM25
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
+#EXTINF:-1,CH8
+https://doofootball.livestream-cdn.com/iptv/hd-ch8.stream/playlist.m3u8
+#EXTINF:-1,MONO29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1,MCOT
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+#EXTINF:-1,ONE31
+https://doofootball.livestream-cdn.com/iptv/hd-gmmone.stream/playlist.m3u8
+#EXTINF:-1,Thairath
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1,Amarin
+http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
+#EXTINF:-1,CH3
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
+#EXTINF:-1,CH7
+http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
+#EXTINF:-1,PPTV
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1,DLTV1 ประถมศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+#EXTINF:-1,DLTV2 ประถมศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+#EXTINF:-1,DLTV3 ประถมศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+#EXTINF:-1,DLTV4 ประถมศึกษาปีที่ 4
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+#EXTINF:-1,DLTV5 ประถมศึกษาปีที่ 5
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+#EXTINF:-1,DLTV6 ประถมศึกษาปีที่ 6
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+#EXTINF:-1,DLTV7 มัธยมศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+#EXTINF:-1,DLTV8 มัธยมศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+#EXTINF:-1,DLTV9 มัธยมศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+#EXTINF:-1,DLTV10 อนุบาลศึกษาปีที่ 1
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+#EXTINF:-1,DLTV11 อนุบาลศึกษาปีที่ 2
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+#EXTINF:-1,DLTV12 อนุบาลศึกษาปีที่ 3
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+#EXTINF:-1,DLTV13 อาชีวศึกษา
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+#EXTINF:-1,DLTV14 อุดมศึกษา
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+#EXTINF:-1,DLTV15 ภาษาต่างประเทศ
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+#EXTINF:-1,ETV SD
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,R Channel
+http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
+#EXTINF:-1,=== Test Link ===
+https://
+#EXTINF:-1,CH5 HD
+https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
+#EXTINF:-1,NBT HD
+https://cdn6.goprimetime.info/feed/chnbt/index.m3u8
+#EXTINF:-1,ThaiPBS HD
+https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
+#EXTINF:-1,TNN16
+https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
+#EXTINF:-1,NEW18
+https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:-1,Nation
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+#EXTINF:-1,Workpoint
+https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+#EXTINF:-1,true4U
+https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+#EXTINF:-1,GMM25
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:-1,CH8
+https://cdn6.goprimetime.info/feed/ch8/index.m3u8
+#EXTINF:-1,MONO29
+https://cdn6.goprimetime.info/feed/chmono29/index.m3u8
+#EXTINF:-1,MCOT HD
+https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
+#EXTINF:-1,ONE HD
+https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
+#EXTINF:-1,Thairath HD
+https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
+#EXTINF:-1,CH3 HD
+https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
+#EXTINF:-1,Amarin HD
+https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
+#EXTINF:-1,CH7 HD
+https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
+#EXTINF:-1,PPTV HD
+https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
+#EXTINF:-1,test_1
+https://cdn6.goprimetime.info/feed/LC3/index.m3u8
+#EXTINF:-1,test_2
+https://cdn6.goprimetime.info/feed/LC4/index.m3u8
+#EXTINF:-1,test_3
+https://cdn6.goprimetime.info/feed/LC6/index.m3u8
+#EXTINF:-1,test_4
+https://cdn6.goprimetime.info/feed/LC7/index.m3u8
+#EXTINF:-1,test_5
+https://cdn6.goprimetime.info/feed/LC8/index.m3u8
+#EXTINF:-1,test_6
+https://cdn6.goprimetime.info/feed/LC9/index.m3u8
+#EXTINF:-1,test_7
+https://cdn6.goprimetime.info/feed/LC10/index.m3u8
+#EXTINF:-1,test_8
+https://cdn6.goprimetime.info/feed/LC11/index.m3u8
+#EXTINF:-1,test_9
+https://cdn6.goprimetime.info/feed/LC12/index.m3u8
+#EXTINF:-1,test_10
+https://cdn6.goprimetime.info/feed/LC13/index.m3u8
+#EXTINF:-1,test_11
+https://cdn6.goprimetime.info/feed/LC14/index.m3u8
+#EXTINF:-1,test_12
+https://cdn6.goprimetime.info/feed/LC15/index.m3u8
+#EXTINF:-1,test_13
+https://cdn6.goprimetime.info/feed/LC16/index.m3u8
+#EXTINF:-1,test_14
+https://cdn6.goprimetime.info/feed/LC17/index.m3u8
+#EXTINF:-1,test_15
+https://cdn6.goprimetime.info/feed/LC18/index.m3u8
+#EXTINF:-1,test_16
+https://cdn6.goprimetime.info/feed/LC21/index.m3u8
+#EXTINF:-1,test_17
+https://cdn6.goprimetime.info/feed/LC23/index.m3u8
+#EXTINF:-1,test_18
+https://cdn6.goprimetime.info/feed/LC24/index.m3u8
+#EXTINF:-1,test_19
+https://cdn6.goprimetime.info/feed/LC25/index.m3u8
+#EXTINF:-1,test_20
+https://cdn6.goprimetime.info/feed/LC26/index.m3u8
+#EXTINF:-1,test_21
+https://cdn6.goprimetime.info/feed/LC27/index.m3u8
+#EXTINF:-1,test_22
+https://cdn6.goprimetime.info/feed/LC28/index.m3u8
+#EXTINF:-1,test_23
+https://cdn6.goprimetime.info/feed/LC31/index.m3u8
+#EXTINF:-1,test_24
+https://cdn6.goprimetime.info/feed/LC33/index.m3u8
+#EXTINF:-1,test_25
+https://cdn6.goprimetime.info/feed/LC34/index.m3u8
+#EXTINF:-1,test_26
+https://cdn6.goprimetime.info/feed/LC35/index.m3u8
+#EXTINF:-1,test_27
+https://cdn6.goprimetime.info/feed/LC36/index.m3u8
+#EXTINF:-1,test_28
+https://cdn6.goprimetime.info/feed/LC37/index.m3u8
+#EXTINF:-1,test_29
+https://cdn6.goprimetime.info/feed/LC38/index.m3u8
+#EXTINF:-1,test_30
+https://cdn6.goprimetime.info/feed/LC41/index.m3u8
+#EXTINF:-1,test_31
+https://cdn6.goprimetime.info/feed/LC42/index.m3u8
+#EXTINF:-1,test_32
+https://cdn6.goprimetime.info/feed/LC43/index.m3u8
+#EXTINF:-1,test_33
+https://cdn6.goprimetime.info/feed/LC44/index.m3u8
+#EXTINF:-1,test_34
+https://cdn6.goprimetime.info/feed/LC51/index.m3u8
+#EXTINF:-1,test_35
+https://cdn6.goprimetime.info/feed/LC56/index.m3u8
+#EXTINF:-1,test_36
+https://cdn6.goprimetime.info/feed/LC57/index.m3u8
+#EXTINF:-1,test_37
+http://27.254.142.14/foxmovie.m3u8
+#EXTINF:-1,test_38
+http://27.254.142.14/foxfamily.m3u8
+#EXTINF:-1,test_39
+https://boxmovielive.com/live/monoplus4.m3u8
+#EXTINF:-1,test_40
+https://live.thaitvstream.com/play/studio/index.m3u8
+#EXTINF:-1,test_Premier 1
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 2
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl2_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 3
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl3_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 4
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl4_480p/chunks.m3u8
+#EXTINF:-1,test_Premier 5
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl5_480p/chunks.m3u8
+#EXTINF:-1,test_Fox Movies
+http://103.245.164.105:1935/aplay/disneych/playlist.m3u8
+#EXTINF:-1,test_CH5
+http://160.119.77.116:8081/iptv/hd-disneyxd.stream/playlist.m3u8
+EXTINF:-1,test_CH 1
+http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
+#EXTINF:-1,test_CH 2
+http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
+#EXTINF:-1,test_CH 3
+http://thaicable.myftp.org:8000/live/infosat/2020/3.ts
+#EXTINF:-1,test_CH 4
+http://thaicable.myftp.org:8000/live/infosat/2020/4.ts
+#EXTINF:-1,test_CH 5
+http://thaicable.myftp.org:8000/live/infosat/2020/5.ts
+#EXTINF:-1,test_CH 6
+http://thaicable.myftp.org:8000/live/infosat/2020/6.ts
+#EXTINF:-1,test_CH 7
+http://thaicable.myftp.org:8000/live/infosat/2020/7.ts
+#EXTINF:-1,test_CH 8
+http://thaicable.myftp.org:8000/live/infosat/2020/8.ts
+#EXTINF:-1,test_CH 9
+http://thaicable.myftp.org:8000/live/infosat/2020/9.ts
+#EXTINF:-1,test_CH 10
+http://thaicable.myftp.org:8000/live/infosat/2020/10.ts
+#EXTINF:-1,test_CH 11
+http://thaicable.myftp.org:8000/live/infosat/2020/11.ts
+#EXTINF:-1,test_CH 12
+http://thaicable.myftp.org:8000/live/infosat/2020/12.ts
+#EXTINF:-1,test_CH 13
+http://thaicable.myftp.org:8000/live/infosat/2020/13.ts
+#EXTINF:-1,test_CH 14
+http://thaicable.myftp.org:8000/live/infosat/2020/14.ts
+#EXTINF:-1,test_CH 15
+http://thaicable.myftp.org:8000/live/infosat/2020/15.ts
+#EXTINF:-1,test_CH 16
+http://thaicable.myftp.org:8000/live/infosat/2020/16.ts
+#EXTINF:-1,test_CH 17
+http://thaicable.myftp.org:8000/live/infosat/2020/17.ts
+#EXTINF:-1,test_CH 18
+http://thaicable.myftp.org:8000/live/infosat/2020/18.ts
+#EXTINF:-1,test_CH 19
+http://thaicable.myftp.org:8000/live/infosat/2020/19.ts
+#EXTINF:-1,test_CH 20
+http://thaicable.myftp.org:8000/live/infosat/2020/20.ts
+#EXTINF:-1,test_CH 21
+http://thaicable.myftp.org:8000/live/infosat/2020/21.ts
+#EXTINF:-1,test_CH 22
+http://thaicable.myftp.org:8000/live/infosat/2020/22.ts
+#EXTINF:-1,test_CH 23
+http://thaicable.myftp.org:8000/live/infosat/2020/23.ts
+#EXTINF:-1,test_CH 24
+http://thaicable.myftp.org:8000/live/infosat/2020/24.ts
+#EXTINF:-1,test_CH 25
+http://thaicable.myftp.org:8000/live/infosat/2020/25.ts
+#EXTINF:-1,test_CH 26
+http://thaicable.myftp.org:8000/live/infosat/2020/26.ts
+#EXTINF:-1,test_CH 27
+http://thaicable.myftp.org:8000/live/infosat/2020/27.ts
+#EXTINF:-1,test_CH 28
+http://thaicable.myftp.org:8000/live/infosat/2020/28.ts
+#EXTINF:-1,test_CH 29
+http://thaicable.myftp.org:8000/live/infosat/2020/29.ts
+#EXTINF:-1,test_CH 30
+http://thaicable.myftp.org:8000/live/infosat/2020/30.ts
+#EXTINF:-1,test_CH 31
+http://thaicable.myftp.org:8000/live/infosat/2020/31.ts
+#EXTINF:-1,test_CH 32
+http://thaicable.myftp.org:8000/live/infosat/2020/32.ts
+#EXTINF:-1,test_CH 33
+http://thaicable.myftp.org:8000/live/infosat/2020/33.ts
+#EXTINF:-1,test_CH 34
+http://thaicable.myftp.org:8000/live/infosat/2020/34.ts
+#EXTINF:-1,test_CH 35
+http://thaicable.myftp.org:8000/live/infosat/2020/35.ts
+#EXTINF:-1,test_CH 36
+http://thaicable.myftp.org:8000/live/infosat/2020/36.ts
+#EXTINF:-1,test_CH 37
+http://thaicable.myftp.org:8000/live/infosat/2020/37.ts
+#EXTINF:-1,test_CH 38
+http://thaicable.myftp.org:8000/live/infosat/2020/38.ts
+#EXTINF:-1,test_CH 39
+http://thaicable.myftp.org:8000/live/infosat/2020/39.ts
+#EXTINF:-1,test_CH 40
+http://thaicable.myftp.org:8000/live/infosat/2020/40.ts
+#EXTINF:-1,test_CH 41
+http://thaicable.myftp.org:8000/live/infosat/2020/41.ts
+#EXTINF:-1,test_CH 42
+http://thaicable.myftp.org:8000/live/infosat/2020/42.ts
+#EXTINF:-1,test_CH 43
+http://thaicable.myftp.org:8000/live/infosat/2020/43.ts
+#EXTINF:-1,test_CH 44
+http://thaicable.myftp.org:8000/live/infosat/2020/44.ts
+#EXTINF:-1,test_CH 45
+http://thaicable.myftp.org:8000/live/infosat/2020/45.ts
+#EXTINF:-1,test_CH 46
+http://thaicable.myftp.org:8000/live/infosat/2020/46.ts
+#EXTINF:-1,test_CH 47
+http://thaicable.myftp.org:8000/live/infosat/2020/47.ts
+#EXTINF:-1,test_CH 48
+http://thaicable.myftp.org:8000/live/infosat/2020/48.ts
+#EXTINF:-1,test_CH 49
+http://thaicable.myftp.org:8000/live/infosat/2020/49.ts
+#EXTINF:-1,test_CH 50
+http://thaicable.myftp.org:8000/live/infosat/2020/50.ts
+#EXTINF:-1,test_CH 51
+http://thaicable.myftp.org:8000/live/infosat/2020/51.ts
+#EXTINF:-1,test_CH 52
+http://thaicable.myftp.org:8000/live/infosat/2020/52.ts
+#EXTINF:-1,test_CH 53
+http://thaicable.myftp.org:8000/live/infosat/2020/53.ts
+#EXTINF:-1,test_CH 54
+http://thaicable.myftp.org:8000/live/infosat/2020/54.ts
+#EXTINF:-1,test_CH 55
+http://thaicable.myftp.org:8000/live/infosat/2020/55.ts
+#EXTINF:-1,test_CH 56
+http://thaicable.myftp.org:8000/live/infosat/2020/56.ts
+#EXTINF:-1,test_CH 57
+http://thaicable.myftp.org:8000/live/infosat/2020/57.ts
+#EXTINF:-1,test_CH 58
+http://thaicable.myftp.org:8000/live/infosat/2020/58.ts
+#EXTINF:-1,test_CH 59
+http://thaicable.myftp.org:8000/live/infosat/2020/59.ts
+#EXTINF:-1,test_CH 60
+http://thaicable.myftp.org:8000/live/infosat/2020/60.ts
+#EXTINF:-1,test_CH 61
+http://thaicable.myftp.org:8000/live/infosat/2020/61.ts
+#EXTINF:-1,test_CH 62
+http://thaicable.myftp.org:8000/live/infosat/2020/62.ts
+#EXTINF:-1,test_CH 63
+http://thaicable.myftp.org:8000/live/infosat/2020/3.ts
+#EXTINF:-1,test_CH 64
+http://thaicable.myftp.org:8000/live/infosat/2020/4.ts
+#EXTINF:-1,test_CH 65
+http://thaicable.myftp.org:8000/live/infosat/2020/65.ts
+#EXTINF:-1,test_CH 66
+http://thaicable.myftp.org:8000/live/infosat/2020/66.ts
+#EXTINF:-1,test_CH 67
+http://thaicable.myftp.org:8000/live/infosat/2020/67.ts
+#EXTINF:-1,test_CH 68
+http://thaicable.myftp.org:8000/live/infosat/2020/68.ts
+#EXTINF:-1,test_CH 69
+http://thaicable.myftp.org:8000/live/infosat/2020/69.ts
+#EXTINF:-1,test_CH 70
+http://thaicable.myftp.org:8000/live/infosat/2020/70.ts
+#EXTINF:-1,test_CH 71
+http://thaicable.myftp.org:8000/live/infosat/2020/71.ts
+#EXTINF:-1,test_CH 72
+http://thaicable.myftp.org:8000/live/infosat/2020/72.ts
+#EXTINF:-1,test_CH 73
+http://thaicable.myftp.org:8000/live/infosat/2020/73.ts
+#EXTINF:-1,test_CH 74
+http://thaicable.myftp.org:8000/live/infosat/2020/74.ts
+#EXTINF:-1,test_CH 75
+http://thaicable.myftp.org:8000/live/infosat/2020/75.ts
+#EXTINF:-1,test_CH 76
+http://thaicable.myftp.org:8000/live/infosat/2020/76.ts
+#EXTINF:-1,test_CH 77
+http://thaicable.myftp.org:8000/live/infosat/2020/77.ts
+#EXTINF:-1,test_CH 78
+http://thaicable.myftp.org:8000/live/infosat/2020/78.ts
+#EXTINF:-1,test_CH 79
+http://thaicable.myftp.org:8000/live/infosat/2020/79.ts
+#EXTINF:-1,test_CH 80
+http://thaicable.myftp.org:8000/live/infosat/2020/80.ts
+#EXTINF:-1,test_CH 81
+http://thaicable.myftp.org:8000/live/infosat/2020/81.ts
+#EXTINF:-1,test_CH 82
+http://thaicable.myftp.org:8000/live/infosat/2020/82.ts
+#EXTINF:-1,test_CH 83
+http://thaicable.myftp.org:8000/live/infosat/2020/83.ts
+#EXTINF:-1,test_CH 84
+http://thaicable.myftp.org:8000/live/infosat/2020/84.ts
+#EXTINF:-1,test_CH 85
+http://thaicable.myftp.org:8000/live/infosat/2020/85.ts
+#EXTINF:-1,test_CH 86
+http://thaicable.myftp.org:8000/live/infosat/2020/86.ts
+#EXTINF:-1,test_CH 87
+http://thaicable.myftp.org:8000/live/infosat/2020/87.ts
+#EXTINF:-1,test_CH 88
+http://thaicable.myftp.org:8000/live/infosat/2020/88.ts
+#EXTINF:-1,test_CH 89
+http://thaicable.myftp.org:8000/live/infosat/2020/89.ts
+#EXTINF:-1,test_CH 90
+http://thaicable.myftp.org:8000/live/infosat/2020/90.ts
+#EXTINF:-1,test_CH 91
+http://thaicable.myftp.org:8000/live/infosat/2020/91.ts
+#EXTINF:-1,test_CH 92
+http://thaicable.myftp.org:8000/live/infosat/2020/92.ts
+#EXTINF:-1,test_CH 93
+http://thaicable.myftp.org:8000/live/infosat/2020/93.ts
+#EXTINF:-1,test_CH 94
+http://thaicable.myftp.org:8000/live/infosat/2020/94.ts
+#EXTINF:-1,test_CH 95
+http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
+#EXTINF:-1,อัพเดท 03/01/2564
+http://

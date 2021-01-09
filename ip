@@ -5,9 +5,9 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
 #EXTINF:-1,Channel 8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1,true Flim HD
+#EXTINF:-1,true Film HD
 http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
-#EXTINF:-1,true Thai Flim
+#EXTINF:-1,true Thai Film
 http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
 #EXTINF:-1,true Series
 http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8

@@ -1,6 +1,42 @@
 #EXTM3U
+#EXTINF:-1,CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1,Channel 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,true FILM HD
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
+#EXTINF:-1,true Thai FILM
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+#EXTINF:-1,true Series
+http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8
+#EXTINF:-1,true Asian Series
+http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8
 #EXTINF:-1,Media TV
 https://cdn6.goprimetime.info/feed/LC3/index.m3u8
+#EXTINF:-1,Box Film
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+#EXTINF:-1,CCM
+http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
+#EXTINF:-1,MONO29
+https://cdn6.goprimetime.info/feed/chmono29/index.m3u8
+#EXTINF:-1,M Channel
+https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
+#EXTINF:-1,TVB ไทย
+https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8
+#EXTINF:-1,SUN MOVIE
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8
+#EXTINF:-1,SAMURAI MOVIE
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+#EXTINF:-1,JKN TV
+https://cdn6.goprimetime.info/feed/LC24/index.m3u8
+#EXTINF:-1,ZEE หนัง
+https://cdn6.goprimetime.info/feed/LC5/index.m3u8
+#EXTINF:-1,IS TV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+#EXTINF:-1,Hits
+https://www.livedoomovie.com/02_HITS_720p/chunklist.m3u8
+#EXTINF:-1,Hits Movies
+https://www.livedoomovie.com/02_HITSMOVIE_720p/chunklist.m3u8
 #EXTINF:-1,CH5 HD
 https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
 #EXTINF:-1,NBT HD
@@ -37,6 +73,35 @@ https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
 https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
 #EXTINF:-1,PPTV HD
 https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
+#EXTINF:-1,true Inside
+http://160.119.77.116:8081/iptv/sd-inside.stream/playlist.m3u8
+#EXTINF:-1,true Music
+http://160.119.77.116:8081/iptv/sd-tmusic.stream/playlist.m3u8
+#EXTINF:-1,MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,MTV Hits
+http://youriptv.tv:8080/live/ARGENTINA/Nicetry8888/39255.m3u8
+#EXTINF:-1,MTV Live HD
+https://cdn6.goprimetime.info/feed/LC31/index.m3u8
+#EXTINF:-1,Channel [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,M2OTV
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1,Mooz HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/18.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
+#EXTINF:-1,Mooz Dance HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,Mooz Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,Mooz RO!
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+
 #EXTINF:-1,Premier HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1,Premier HD2

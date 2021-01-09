@@ -101,7 +101,54 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?st
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1,Mooz RO!
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-
+#EXTINF:-1,Animax (TH)
+https://cdn6.goprimetime.info/feed/LC38/index.m3u8
+#EXTINF:-1,Cartoon Network
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1,Disney Channel
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1,SPARKJUMP
+http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
+#EXTINF:-1,SPARKPLAY
+http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
+#EXTINF:-1,TooNEE
+https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
+#EXTINF:-1,Cartoon Club HD
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1,SANOOK MOVIE
+https://cdn6.goprimetime.info/feed/LC53/index.m3u8
+#EXTINF:-1,Charoen Cable TV HD
+https://cdn6.goprimetime.info/feed/LC32/index.m3u8
+#EXTINF:-1,History (TH)
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1,H2 (TH)
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1,Animal Planet (TH)
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,สำรวจโลก
+https://cdn6.goprimetime.info/feed/LC8/index.m3u8
+#EXTINF:-1,PSI สาระดี
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1,BBC EARTH (TH)
+https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:-1,Discovery Asia (TH)
+https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+#EXTINF:-1,Discovery Channel (TH)
+https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1,World Animal (TH)
+http://203.154.243.89:1201
+#EXTINF:-1,World Science (TH)
+http://203.154.243.32:8088/live/wsci/index.m3u8
+#EXTINF:-1,Nat Geo (TH)
+https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:-1,Nat Geo Wild (TH)
+https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,true EXPLORE WILD
+https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
+#EXTINF:-1,true EXPLORE LIFE
+https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
+#EXTINF:-1,true X-ZYTE
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
 #EXTINF:-1,Premier HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1,Premier HD2

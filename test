@@ -1,5 +1,42 @@
 #EXTM3U
-#EXTINF:-1,CH 5 HD
+#EXTINF:-1,Media TV
+https://cdn6.goprimetime.info/feed/LC3/index.m3u8
+#EXTINF:-1,CH5 HD
+https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
+#EXTINF:-1,NBT HD
+https://cdn6.goprimetime.info/feed/chnbt/index.m3u8
+#EXTINF:-1,ThaiPBS HD
+https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
+#EXTINF:-1,TNN16
+https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
+#EXTINF:-1,NEW18
+https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:-1,Nation
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+#EXTINF:-1,Workpoint
+https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+#EXTINF:-1,true4U
+https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+#EXTINF:-1,GMM25
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:-1,CH8
+https://cdn6.goprimetime.info/feed/ch8/index.m3u8
+#EXTINF:-1,MONO29
+https://cdn6.goprimetime.info/feed/chmono29/index.m3u8
+#EXTINF:-1,MCOT HD
+https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
+#EXTINF:-1,ONE HD
+https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
+#EXTINF:-1,Thairath HD
+https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
+#EXTINF:-1,CH3 HD
+https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
+#EXTINF:-1,Amarin HD
+https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
+#EXTINF:-1,CH7 HD
+https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
+#EXTINF:-1,PPTV HD
+https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
 #EXTINF:-1,Premier HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1,Premier HD2
@@ -20,3 +57,336 @@ http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
 http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 #EXTINF:-1,true Sports 5
 http://103.208.24.234:1935/thaisport/hd-tsport5.stream/chunklist.m3u8
+#EXTINF:-1,true Sports 6
+http://103.208.24.234:1935/thaisport/sd-tsport6.stream/chunklist.m3u8
+#EXTINF:-1,true Sports 7
+http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
+#EXTINF:-1,astro SuperSport 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,astro SuperSport 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,astro SuperSport 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,astro SuperSport 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1,BT SPORTS 1
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1,BT SPORTS 2
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1,BT SPORTS 3
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1,Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1,Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1,EUROSPORT 4K 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+#EXTINF:-1,EUROSPORT 4K 2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200&checkedby
+#EXTINF:-1,EUROSPORT 4K 3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800&checkedby
+#EXTINF:-1,EUROSPORT 4K 4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400&checkedby
+#EXTINF:-1,EUROSPORT 4K 5
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000&checkedby
+#EXTINF:-1,EUROSPORT 4K 6
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600&checkedby
+#EXTINF:-1,EUROSPORT 4K 7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200&checkedby
+#EXTINF:-1,EUROSPORT 4K 8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800&checkedby
+#EXTINF:-1,EUROSPORT 4K 9
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400&checkedby
+#EXTINF:-1,EUROSPORT 4K 10
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000&checkedby
+#EXTINF:-1,EUROSPORT 4K 11
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600&checkedby
+#EXTINF:-1,EUROSPORT 4K 12
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200&checkedby
+#EXTINF:-1,EUROSPORT 4K 13
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800&checkedby
+#EXTINF:-1,EUROSPORT 4K 14
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400&checkedby
+#EXTINF:-1,EUROSPORT 4K 15
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000&checkedby
+#EXTINF:-1,EUROSPORT 4K 16
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600&checkedby
+#EXTINF:-1,EUROSPORT 4K 17
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200&checkedby
+#EXTINF:-1,EUROSPORT 4K 18
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800&checkedby
+#EXTINF:-1,EUROSPORT 4K 19
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400&checkedby
+#EXTINF:-1,EUROSPORT 4K 20
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000&checkedby
+#EXTINF:-1,EUROSPORT 4K 21
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600&checkedby
+#EXTINF:-1,EUROSPORT 4K 22
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200&checkedby
+#EXTINF:-1,EUROSPORT 4K 23
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800&checkedby
+#EXTINF:-1,EUROSPORT 4K 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400&checkedby
+#EXTINF:-1,EUROSPORT 4K 25
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000&checkedby
+#EXTINF:-1,EUROSPORT 4K 26
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600&checkedby
+#EXTINF:-1,EUROSPORT 4K 27
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200&checkedby
+#EXTINF:-1,EUROSPORT 4K 28
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800&checkedby
+#EXTINF:-1,EUROSPORT 4K 29
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400&checkedby
+#EXTINF:-1,EUROSPORT 4K 30
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000&checkedby
+#EXTINF:-1,EUROSPORT 4K 31
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600&checkedby
+#EXTINF:-1,EUROSPORT 4K 32
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200&checkedby
+#EXTINF:-1,EUROSPORT 4K 33
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800&checkedby
+#EXTINF:-1,EUROSPORT 4K 34
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400&checkedby
+#EXTINF:-1,EUROSPORT 4K 35
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000&checkedby
+#EXTINF:-1,EUROSPORT 4K 36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600&checkedby
+#EXTINF:-1,EUROSPORT 4K 37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200&checkedby
+#EXTINF:-1,EUROSPORT 4K 38
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800&checkedby
+#EXTINF:-1,EUROSPORT 4K 39
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400&checkedby
+#EXTINF:-1,EUROSPORT 4K 40
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000&checkedby
+#EXTINF:-1,EUROSPORT 4K 41
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby
+#EXTINF:-1,EUROSPORT 4K 42
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-151200&checkedby
+#EXTINF:-1,EUROSPORT 4K 43
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-154800&checkedby
+#EXTINF:-1,EUROSPORT 4K 44
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400&checkedby
+#EXTINF:-1,EUROSPORT 4K 45
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000&checkedby
+#EXTINF:-1,EUROSPORT 4K 46
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600&checkedby
+#EXTINF:-1,EUROSPORT 4K 47
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-169200&checkedby
+#EXTINF:-1,EUROSPORT 4K 48
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800&checkedby
+#EXTINF:-1,EUROSPORT 4K 49
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-176400&checkedby
+#EXTINF:-1,EUROSPORT 4K 50
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000&checkedby
+#EXTINF:-1,SKY SPORTS PREMIER
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1,PREMIER SPORTS
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
+#EXTINF:-1,SPORTS TV1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,SPORTS TV5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+EXTINF:-1,test_CH 1
+http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
+#EXTINF:-1,test_CH 2
+http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
+#EXTINF:-1,test_CH 3
+http://thaicable.myftp.org:8000/live/infosat/2020/3.ts
+#EXTINF:-1,test_CH 4
+http://thaicable.myftp.org:8000/live/infosat/2020/4.ts
+#EXTINF:-1,test_CH 5
+http://thaicable.myftp.org:8000/live/infosat/2020/5.ts
+#EXTINF:-1,test_CH 6
+http://thaicable.myftp.org:8000/live/infosat/2020/6.ts
+#EXTINF:-1,test_CH 7
+http://thaicable.myftp.org:8000/live/infosat/2020/7.ts
+#EXTINF:-1,test_CH 8
+http://thaicable.myftp.org:8000/live/infosat/2020/8.ts
+#EXTINF:-1,test_CH 9
+http://thaicable.myftp.org:8000/live/infosat/2020/9.ts
+#EXTINF:-1,test_CH 10
+http://thaicable.myftp.org:8000/live/infosat/2020/10.ts
+#EXTINF:-1,test_CH 11
+http://thaicable.myftp.org:8000/live/infosat/2020/11.ts
+#EXTINF:-1,test_CH 12
+http://thaicable.myftp.org:8000/live/infosat/2020/12.ts
+#EXTINF:-1,test_CH 13
+http://thaicable.myftp.org:8000/live/infosat/2020/13.ts
+#EXTINF:-1,test_CH 14
+http://thaicable.myftp.org:8000/live/infosat/2020/14.ts
+#EXTINF:-1,test_CH 15
+http://thaicable.myftp.org:8000/live/infosat/2020/15.ts
+#EXTINF:-1,test_CH 16
+http://thaicable.myftp.org:8000/live/infosat/2020/16.ts
+#EXTINF:-1,test_CH 17
+http://thaicable.myftp.org:8000/live/infosat/2020/17.ts
+#EXTINF:-1,test_CH 18
+http://thaicable.myftp.org:8000/live/infosat/2020/18.ts
+#EXTINF:-1,test_CH 19
+http://thaicable.myftp.org:8000/live/infosat/2020/19.ts
+#EXTINF:-1,test_CH 20
+http://thaicable.myftp.org:8000/live/infosat/2020/20.ts
+#EXTINF:-1,test_CH 21
+http://thaicable.myftp.org:8000/live/infosat/2020/21.ts
+#EXTINF:-1,test_CH 22
+http://thaicable.myftp.org:8000/live/infosat/2020/22.ts
+#EXTINF:-1,test_CH 23
+http://thaicable.myftp.org:8000/live/infosat/2020/23.ts
+#EXTINF:-1,test_CH 24
+http://thaicable.myftp.org:8000/live/infosat/2020/24.ts
+#EXTINF:-1,test_CH 25
+http://thaicable.myftp.org:8000/live/infosat/2020/25.ts
+#EXTINF:-1,test_CH 26
+http://thaicable.myftp.org:8000/live/infosat/2020/26.ts
+#EXTINF:-1,test_CH 27
+http://thaicable.myftp.org:8000/live/infosat/2020/27.ts
+#EXTINF:-1,test_CH 28
+http://thaicable.myftp.org:8000/live/infosat/2020/28.ts
+#EXTINF:-1,test_CH 29
+http://thaicable.myftp.org:8000/live/infosat/2020/29.ts
+#EXTINF:-1,test_CH 30
+http://thaicable.myftp.org:8000/live/infosat/2020/30.ts
+#EXTINF:-1,test_CH 31
+http://thaicable.myftp.org:8000/live/infosat/2020/31.ts
+#EXTINF:-1,test_CH 32
+http://thaicable.myftp.org:8000/live/infosat/2020/32.ts
+#EXTINF:-1,test_CH 33
+http://thaicable.myftp.org:8000/live/infosat/2020/33.ts
+#EXTINF:-1,test_CH 34
+http://thaicable.myftp.org:8000/live/infosat/2020/34.ts
+#EXTINF:-1,test_CH 35
+http://thaicable.myftp.org:8000/live/infosat/2020/35.ts
+#EXTINF:-1,test_CH 36
+http://thaicable.myftp.org:8000/live/infosat/2020/36.ts
+#EXTINF:-1,test_CH 37
+http://thaicable.myftp.org:8000/live/infosat/2020/37.ts
+#EXTINF:-1,test_CH 38
+http://thaicable.myftp.org:8000/live/infosat/2020/38.ts
+#EXTINF:-1,test_CH 39
+http://thaicable.myftp.org:8000/live/infosat/2020/39.ts
+#EXTINF:-1,test_CH 40
+http://thaicable.myftp.org:8000/live/infosat/2020/40.ts
+#EXTINF:-1,test_CH 41
+http://thaicable.myftp.org:8000/live/infosat/2020/41.ts
+#EXTINF:-1,test_CH 42
+http://thaicable.myftp.org:8000/live/infosat/2020/42.ts
+#EXTINF:-1,test_CH 43
+http://thaicable.myftp.org:8000/live/infosat/2020/43.ts
+#EXTINF:-1,test_CH 44
+http://thaicable.myftp.org:8000/live/infosat/2020/44.ts
+#EXTINF:-1,test_CH 45
+http://thaicable.myftp.org:8000/live/infosat/2020/45.ts
+#EXTINF:-1,test_CH 46
+http://thaicable.myftp.org:8000/live/infosat/2020/46.ts
+#EXTINF:-1,test_CH 47
+http://thaicable.myftp.org:8000/live/infosat/2020/47.ts
+#EXTINF:-1,test_CH 48
+http://thaicable.myftp.org:8000/live/infosat/2020/48.ts
+#EXTINF:-1,test_CH 49
+http://thaicable.myftp.org:8000/live/infosat/2020/49.ts
+#EXTINF:-1,test_CH 50
+http://thaicable.myftp.org:8000/live/infosat/2020/50.ts
+#EXTINF:-1,test_CH 51
+http://thaicable.myftp.org:8000/live/infosat/2020/51.ts
+#EXTINF:-1,test_CH 52
+http://thaicable.myftp.org:8000/live/infosat/2020/52.ts
+#EXTINF:-1,test_CH 53
+http://thaicable.myftp.org:8000/live/infosat/2020/53.ts
+#EXTINF:-1,test_CH 54
+http://thaicable.myftp.org:8000/live/infosat/2020/54.ts
+#EXTINF:-1,test_CH 55
+http://thaicable.myftp.org:8000/live/infosat/2020/55.ts
+#EXTINF:-1,test_CH 56
+http://thaicable.myftp.org:8000/live/infosat/2020/56.ts
+#EXTINF:-1,test_CH 57
+http://thaicable.myftp.org:8000/live/infosat/2020/57.ts
+#EXTINF:-1,test_CH 58
+http://thaicable.myftp.org:8000/live/infosat/2020/58.ts
+#EXTINF:-1,test_CH 59
+http://thaicable.myftp.org:8000/live/infosat/2020/59.ts
+#EXTINF:-1,test_CH 60
+http://thaicable.myftp.org:8000/live/infosat/2020/60.ts
+#EXTINF:-1,test_CH 61
+http://thaicable.myftp.org:8000/live/infosat/2020/61.ts
+#EXTINF:-1,test_CH 62
+http://thaicable.myftp.org:8000/live/infosat/2020/62.ts
+#EXTINF:-1,test_CH 63
+http://thaicable.myftp.org:8000/live/infosat/2020/3.ts
+#EXTINF:-1,test_CH 64
+http://thaicable.myftp.org:8000/live/infosat/2020/4.ts
+#EXTINF:-1,test_CH 65
+http://thaicable.myftp.org:8000/live/infosat/2020/65.ts
+#EXTINF:-1,test_CH 66
+http://thaicable.myftp.org:8000/live/infosat/2020/66.ts
+#EXTINF:-1,test_CH 67
+http://thaicable.myftp.org:8000/live/infosat/2020/67.ts
+#EXTINF:-1,test_CH 68
+http://thaicable.myftp.org:8000/live/infosat/2020/68.ts
+#EXTINF:-1,test_CH 69
+http://thaicable.myftp.org:8000/live/infosat/2020/69.ts
+#EXTINF:-1,test_CH 70
+http://thaicable.myftp.org:8000/live/infosat/2020/70.ts
+#EXTINF:-1,test_CH 71
+http://thaicable.myftp.org:8000/live/infosat/2020/71.ts
+#EXTINF:-1,test_CH 72
+http://thaicable.myftp.org:8000/live/infosat/2020/72.ts
+#EXTINF:-1,test_CH 73
+http://thaicable.myftp.org:8000/live/infosat/2020/73.ts
+#EXTINF:-1,test_CH 74
+http://thaicable.myftp.org:8000/live/infosat/2020/74.ts
+#EXTINF:-1,test_CH 75
+http://thaicable.myftp.org:8000/live/infosat/2020/75.ts
+#EXTINF:-1,test_CH 76
+http://thaicable.myftp.org:8000/live/infosat/2020/76.ts
+#EXTINF:-1,test_CH 77
+http://thaicable.myftp.org:8000/live/infosat/2020/77.ts
+#EXTINF:-1,test_CH 78
+http://thaicable.myftp.org:8000/live/infosat/2020/78.ts
+#EXTINF:-1,test_CH 79
+http://thaicable.myftp.org:8000/live/infosat/2020/79.ts
+#EXTINF:-1,test_CH 80
+http://thaicable.myftp.org:8000/live/infosat/2020/80.ts
+#EXTINF:-1,test_CH 81
+http://thaicable.myftp.org:8000/live/infosat/2020/81.ts
+#EXTINF:-1,test_CH 82
+http://thaicable.myftp.org:8000/live/infosat/2020/82.ts
+#EXTINF:-1,test_CH 83
+http://thaicable.myftp.org:8000/live/infosat/2020/83.ts
+#EXTINF:-1,test_CH 84
+http://thaicable.myftp.org:8000/live/infosat/2020/84.ts
+#EXTINF:-1,test_CH 85
+http://thaicable.myftp.org:8000/live/infosat/2020/85.ts
+#EXTINF:-1,test_CH 86
+http://thaicable.myftp.org:8000/live/infosat/2020/86.ts
+#EXTINF:-1,test_CH 87
+http://thaicable.myftp.org:8000/live/infosat/2020/87.ts
+#EXTINF:-1,test_CH 88
+http://thaicable.myftp.org:8000/live/infosat/2020/88.ts
+#EXTINF:-1,test_CH 89
+http://thaicable.myftp.org:8000/live/infosat/2020/89.ts
+#EXTINF:-1,test_CH 90
+http://thaicable.myftp.org:8000/live/infosat/2020/90.ts
+#EXTINF:-1,test_CH 91
+http://thaicable.myftp.org:8000/live/infosat/2020/91.ts
+#EXTINF:-1,test_CH 92
+http://thaicable.myftp.org:8000/live/infosat/2020/92.ts
+#EXTINF:-1,test_CH 93
+http://thaicable.myftp.org:8000/live/infosat/2020/93.ts
+#EXTINF:-1,test_CH 94
+http://thaicable.myftp.org:8000/live/infosat/2020/94.ts
+#EXTINF:-1,test_CH 95
+http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
+#EXTINF:-1,test_CH 96
+http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
+
+
+

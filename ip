@@ -45,9 +45,9 @@ https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
 https://cdn6.goprimetime.info/feed/chnbt/index.m3u8
 #EXTINF:-1,ThaiPBS HD
 https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
-#EXTINF:-1,TNN16
+#EXTINF:-1,TNN 16
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
-#EXTINF:-1,NEW18
+#EXTINF:-1,NEW 18
 https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 #EXTINF:-1,Nation
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
@@ -351,7 +351,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000&checkedby
 #EXTINF:-1,test_CH5 HD
 http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
-#EXTINF:-1,test_NBT
+#EXTINF:-1,test_NBT HD
 http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
 #EXTINF:-1,test_ThaiPBS HD
 http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
@@ -373,7 +373,7 @@ http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-mono.stream/playlist.m3u8
 #EXTINF:-1,test_MCOT HD
 http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
-#EXTINF:-1,test_ONE31 HD
+#EXTINF:-1,test_ONE HD
 http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
 #EXTINF:-1,test_Thairath HD
 http://160.119.77.116:8081/iptv/hd-thairath.stream/playlist.m3u8
@@ -574,4 +574,4 @@ http://thaicable.myftp.org:8000/live/infosat/2020/94.ts
 #EXTINF:-1,test_CH 95
 http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
 #EXTINF:-1,test_CH 96
-http://thaicable.myftp.org:8000/live/infosat/2020/95.
+https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_SoGQyds6NfkxaLEJk_U12g)/dm/3/x6rz4t7/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1.

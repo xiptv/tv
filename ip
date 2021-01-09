@@ -20,7 +20,7 @@ https://cdn6.goprimetime.info/feed/LC52/index.m3u8
 #EXTINF:-1,CCM
 http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
 #EXTINF:-1,MONO29
-https://cdn6.goprimetime.info/feed/chmono29/index.m3u8
+http://160.119.77.116:8081/iptv/hd-mono.stream/playlist.m3u8
 #EXTINF:-1,M Channel
 https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
 #EXTINF:-1,TVB ไทย
@@ -113,8 +113,6 @@ https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 #EXTINF:-1,SPARKPLAY
 http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
-#EXTINF:-1,Boomerang
-https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
 #EXTINF:-1,TooNEE
 https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
 #EXTINF:-1,Cartoon Club HD
@@ -205,10 +203,28 @@ http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1,Sky Racing 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER
+#EXTINF:-1,Sky Sports Premier
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL
+#EXTINF:-1,Sky Sports Football
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Mainevent
+http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Even
+http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Mix
+http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Arena
+http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Golf
+http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports F1
+http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Action
+http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Cricket
+http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports Bundesliga
+http://160.119.77.116:8081/iptv/de-skybundesliga.stream/playlist.m3u8
 #EXTINF:-1,PREMIER SPORTS
 http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
 #EXTINF:-1,Fox Sports 1
@@ -227,6 +243,12 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,beIN Sports 1 HD
+http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
+#EXTINF:-1,beIN Sports 2 HD
+http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
+#EXTINF:-1,beIN Sports 3 HD
+http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8
 #EXTINF:-1,EUROSPORT 4K 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
 #EXTINF:-1,EUROSPORT 4K 2
@@ -327,6 +349,40 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-176400&checkedby
 #EXTINF:-1,EUROSPORT 4K 50
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000&checkedby
+#EXTINF:-1,test_CH5 HD
+http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
+#EXTINF:-1,test_NBT
+http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
+#EXTINF:-1,test_ThaiPBS HD
+http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
+#EXTINF:-1,test_TPTV
+http://160.119.77.116:8081/iptv/sd-tptv.stream/playlist.m3u8
+#EXTINF:-1,test_TNN 16
+http://160.119.77.116:8081/iptv/sd-tnn24.stream/playlist.m3u8
+#EXTINF:-1,test_NEW 18
+http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8
+#EXTINF:-1,test_Nation
+http://160.119.77.116:8081/iptv/sd-nation.stream/playlist.m3u8
+#EXTINF:-1,test_Workpoint HD
+http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
+#EXTINF:-1,test_GMM25
+http://160.119.77.116:8081/iptv/sd-gmmchannel.stream/playlist.m3u8
+#EXTINF:-1,test_CH8 HD
+http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
+#EXTINF:-1,test_MONO29 HD
+http://160.119.77.116:8081/iptv/hd-mono.stream/playlist.m3u8
+#EXTINF:-1,test_MCOT HD
+http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
+#EXTINF:-1,test_ONE31 HD
+http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
+#EXTINF:-1,test_Thairath HD
+http://160.119.77.116:8081/iptv/hd-thairath.stream/playlist.m3u8
+#EXTINF:-1,test_Amarin HD
+http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
+#EXTINF:-1,test_CH7 HD
+http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
+#EXTINF:-1,test_PPTV HD
+http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
 EXTINF:-1,test_CH 1
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,test_CH 2

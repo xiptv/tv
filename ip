@@ -113,6 +113,8 @@ https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 #EXTINF:-1,SPARKPLAY
 http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
+#EXTINF:-1,Boomerang
+https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
 #EXTINF:-1,TooNEE
 https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
 #EXTINF:-1,Cartoon Club HD

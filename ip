@@ -245,6 +245,16 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,SPORT TV1
+https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8
+#EXTINF:-1,SPORT TV2
+https://cdn3.wowza.com/1/OHhXbHJYRkp2Yjk2/Sk5KYmFh/hls/nc3fxqmb/2728/chunklist.m3u8
+#EXTINF:-1,SPORT TV3
+https://cdn3.wowza.com/1/ek1yY0NlQ3BLQ3Js/anoyd0wy/hls/6y851rcg/2728/chunklist.m3u8
+#EXTINF:-1,SPORT TV4
+https://cdn3.wowza.com/1/NXUwUkNXWC84UFAv/OXhJZE5k/hls/jdbgpqbj/2728/chunklist.m3u8
+#EXTINF:-1,SPORT TV5
+https://cdn3.wowza.com/1/Mm0yNUJTN3ZsK0RF/ZG5xL2tC/hls/xfjppdpf/2728/chunklist.m3u8
 #EXTINF:-1,beIN Sports 1 HD
 http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
 #EXTINF:-1,beIN Sports 2 HD

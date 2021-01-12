@@ -491,3 +491,15 @@ http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
 https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_SoGQyds6NfkxaLEJk_U12g)/dm/3/x6rz4t7/s/live-3.m3u8
 #EXTINF:-1,test_Maleficent Mistress of Evil
 https://cache-edge1.jooxhd.com/hls/content/nas01-1/mvc/m/4k/move/Maleficent-Mistress-of-Evil/Maleficent-Mistress-of-Evil_T.mp4/index.m3u8
+#EXTINF:-1,test_มีเดียนิวส์ทีวี
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+#EXTINF:-1,test_เพชรบูรณ์ทีวี
+https://live.thaitvstream.com/play/phetchabuntv/index.m3u8
+#EXTINF:-1,test_บุรีรัมย์ทีวี
+https://live.thaitvstream.com/play/studio/index.m3u8
+#EXTINF:-1,test_SMN_NEWS
+https://live.thaitvstream.com/play/smn/index.m3u8
+#EXTINF:-1,test_CTV Thailand
+https://live.thaitvstream.com/play/ctvthailand/index.m3u8
+#EXTINF:-1,test_เชียงรายทีวี
+https://live.thaitvstream.com/play/chiangrai/index.m3u8

@@ -119,6 +119,8 @@ https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
 #EXTINF:-1,Cartoon Club HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1,Nick JR
+https://laos-tech-live.b-cdn.net/sd-nickjr_480/index.m3u8
 #EXTINF:-1,SANOOK MOVIE
 https://cdn6.goprimetime.info/feed/LC53/index.m3u8
 #EXTINF:-1,Charoen Cable TV HD

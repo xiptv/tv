@@ -2,7 +2,7 @@
 #EXTINF:-1,CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1,Fox ไทย
-http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1,Channel 8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1,true Film HD
@@ -39,6 +39,8 @@ https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 https://www.livedoomovie.com/02_HITS_720p/chunklist.m3u8
 #EXTINF:-1,Hits Movies
 https://www.livedoomovie.com/02_HITSMOVIE_720p/chunklist.m3u8
+#EXTINF:-1,Warner TV
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1,CH5 HD
 https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
 #EXTINF:-1,NBT HD
@@ -138,7 +140,7 @@ http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:-1,BBC EARTH (TH)
 https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
 #EXTINF:-1,Discovery Asia (TH)
-https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1,Discovery Channel (TH)
 https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1,World Animal (TH)
@@ -232,11 +234,11 @@ http://160.119.77.116:8081/iptv/de-skybundesliga.stream/playlist.m3u8
 #EXTINF:-1,PREMIER SPORTS
 http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
 #EXTINF:-1,Fox Sports 1
-http://160.119.77.116:8081/iptv/hd-foxsports1.stream/playlist.m3u8
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1,Fox Sports 2
-http://160.119.77.116:8081/iptv/sd-foxsports2.stream/playlist.m3u8
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1,Fox Sports 3
-http://160.119.77.116:8081/iptv/sd-foxsports3.stream/playlist.m3u8
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV2
@@ -247,58 +249,8 @@ https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1,test_SPORT TV1
-https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8
-#EXTINF:-1,test_SPORT TV2
-https://cdn3.wowza.com/1/OHhXbHJYRkp2Yjk2/Sk5KYmFh/hls/nc3fxqmb/2728/chunklist.m3u8
-#EXTINF:-1,test_SPORT TV3
-https://cdn3.wowza.com/1/ek1yY0NlQ3BLQ3Js/anoyd0wy/hls/6y851rcg/2728/chunklist.m3u8
-#EXTINF:-1,test_SPORT TV4
-https://cdn3.wowza.com/1/NXUwUkNXWC84UFAv/OXhJZE5k/hls/jdbgpqbj/2728/chunklist.m3u8
-#EXTINF:-1,test_SPORT TV5
-https://cdn3.wowza.com/1/Mm0yNUJTN3ZsK0RF/ZG5xL2tC/hls/xfjppdpf/2728/chunklist.m3u8
-#EXTINF:-1,beIN Sports 1 HD
-http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 2 HD
-http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 3 HD
-http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8
-#EXTINF:-1,test_CH5 HD
-http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
-#EXTINF:-1,test_NBT HD
-http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
-#EXTINF:-1,test_ThaiPBS HD
-http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
-#EXTINF:-1,test_TPTV
-http://160.119.77.116:8081/iptv/sd-tptv.stream/playlist.m3u8
-#EXTINF:-1,test_TNN 16
-http://160.119.77.116:8081/iptv/sd-tnn24.stream/playlist.m3u8
-#EXTINF:-1,test_NEW 18
-http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8
-#EXTINF:-1,test_Nation
-http://160.119.77.116:8081/iptv/sd-nation.stream/playlist.m3u8
-#EXTINF:-1,test_Workpoint HD
-http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
-#EXTINF:-1,test_GMM25
-http://160.119.77.116:8081/iptv/sd-gmmchannel.stream/playlist.m3u8
-#EXTINF:-1,test_CH8 HD
-http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
-#EXTINF:-1,test_MONO29 HD
-http://160.119.77.116:8081/iptv/hd-mono.stream/playlist.m3u8
-#EXTINF:-1,test_MCOT HD
-http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
-#EXTINF:-1,test_ONE HD
-http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
-#EXTINF:-1,test_Thairath HD
-http://160.119.77.116:8081/iptv/hd-thairath.stream/playlist.m3u8
-#EXTINF:-1,test_CH3 HD
-http://160.119.77.116:8081/iptv/hd-ch3.stream/playlist.m3u8
-#EXTINF:-1,test_Amarin HD
-http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
-#EXTINF:-1,test_CH7 HD
-http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
-#EXTINF:-1,test_PPTV HD
-http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
+#EXTINF:-1,NBA TV
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1,test_CH 1
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,test_CH 2

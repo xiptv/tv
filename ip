@@ -148,9 +148,9 @@ http://203.154.243.89:1201
 #EXTINF:-1,World Science (TH)
 http://203.154.243.32:8088/live/wsci/index.m3u8
 #EXTINF:-1,Nat Geo (TH)
-https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-#EXTINF:-1,Nat Geo Wild (TH)
 https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,Nat Geo Wild (TH)
+https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 #EXTINF:-1,true EXPLORE WILD
 https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
 #EXTINF:-1,true EXPLORE LIFE
@@ -208,31 +208,31 @@ http://thaicable.myftp.org:8000/live/infosat/2020/9.ts
 #EXTINF:-1,test_astro SuperSport 4
 http://thaicable.myftp.org:8000/live/infosat/2020/10.ts
 #EXTINF:-1,BT SPORTS 1
-http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+https://laos-tech-live.b-cdn.net/uk-btsport1hd_720/index.m3u8
 #EXTINF:-1,BT SPORTS 2
-http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+https://laos-tech-live.b-cdn.net/uk-btsport2hd_720/index.m3u8
 #EXTINF:-1,BT SPORTS 3
-http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+https://laos-tech-live.b-cdn.net/uk-btsport3hd_720/index.m3u8
 #EXTINF:-1,Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1,Sky Racing 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1,Sky Sports Premier
-http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+https://laos-tech-live.b-cdn.net/uk-skysports-epl_720/index.m3u8
 #EXTINF:-1,Sky Sports Football
-http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports Mainevent
-http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+https://laos-tech-live.b-cdn.net/uk-skysports-football_720/index.m3u8
+#EXTINF:-1,Sky Sports News
+https://laos-tech-live.b-cdn.net/uk-skysports-news_480/index.m3u8
 #EXTINF:-1,Sky Sports Even
 http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Mix
-http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
+https://laos-tech-live.b-cdn.net/uk-skysports-mix_480/index.m3u8
 #EXTINF:-1,Sky Sports Arena
-http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
+https://laos-tech-live.b-cdn.net/uk-skysports-arena_720/index.m3u8
 #EXTINF:-1,Sky Sports Golf
-http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
+https://laos-tech-live.b-cdn.net/uk-skysports-golf_720/index.m3u8
 #EXTINF:-1,Sky Sports F1
-http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
+https://laos-tech-live.b-cdn.net/uk-skysports-f1_720/index.m3u8
 #EXTINF:-1,Sky Sports Action
 http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Cricket
@@ -258,7 +258,18 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,NBA TV
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+https://laos-tech-live.b-cdn.net/hd-nba_720/index.m3u8
+#EXTINF:-1,beIN Sports HD 1
+https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8
+#EXTINF:-1,beIN Sports HD 2
+https://laos-tech-live.b-cdn.net/epl-bein2_720/index.m3u8
+#EXTINF:-1,Golf Channel
+https://laos-tech-live.b-cdn.net/hd-golf_720/index.m3u8
+#EXTINF:-1,Euro Sport 1
+https://laos-tech-live.b-cdn.net/uk-eurosport_480/index.m3u8
+#EXTINF:-1,Euro Sport 2
+https://laos-tech-live.b-cdn.net/uk-eurosport2_480/index.m3u8
+
 #EXTINF:-1,test_CH 1
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,test_CH 2

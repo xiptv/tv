@@ -156,15 +156,15 @@ https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
 #EXTINF:-1,true X-ZYTE
 https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
 #EXTINF:-1,Premier HD1
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,Premier HD2
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,Premier HD3
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1,Premier HD4
-http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1,Premier HD5
-http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1,test_Premier 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8
 #EXTINF:-1,test_Premier 2

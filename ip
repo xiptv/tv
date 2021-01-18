@@ -158,15 +158,15 @@ https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
 #EXTINF:-1,true X-ZYTE
 https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
 #EXTINF:-1,Premier HD1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/epl-1.stream/chunks.m3u8
 #EXTINF:-1,Premier HD2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/epl-2.stream/chunks.m3u8
 #EXTINF:-1,Premier HD3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/epl-3.stream/chunks.m3u8
 #EXTINF:-1,Premier HD4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/epl-4.stream/chunks.m3u8
 #EXTINF:-1,Premier HD5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/epl-5.stream/chunks.m3u8
 #EXTINF:-1,test_Premier 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8
 #EXTINF:-1,test_Premier 2
@@ -208,31 +208,31 @@ http://thaicable.myftp.org:8000/live/infosat/2020/9.ts
 #EXTINF:-1,test_astro SuperSport 4
 http://thaicable.myftp.org:8000/live/infosat/2020/10.ts
 #EXTINF:-1,BT SPORTS 1
-https://laos-tech-live.b-cdn.net/uk-btsport1hd_720/index.m3u8
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1,BT SPORTS 2
-https://laos-tech-live.b-cdn.net/uk-btsport2hd_720/index.m3u8
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1,BT SPORTS 3
-https://laos-tech-live.b-cdn.net/uk-btsport3hd_720/index.m3u8
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTINF:-1,Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1,Sky Racing 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1,Sky Sports Premier
-https://laos-tech-live.b-cdn.net/uk-skysports-epl_720/index.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Football
-https://laos-tech-live.b-cdn.net/uk-skysports-football_720/index.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports News
 https://laos-tech-live.b-cdn.net/uk-skysports-news_480/index.m3u8
 #EXTINF:-1,Sky Sports Even
 http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Mix
-https://laos-tech-live.b-cdn.net/uk-skysports-mix_480/index.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Arena
-https://laos-tech-live.b-cdn.net/uk-skysports-arena_720/index.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Golf
-https://laos-tech-live.b-cdn.net/uk-skysports-golf_720/index.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports F1
-https://laos-tech-live.b-cdn.net/uk-skysports-f1_720/index.m3u8
+http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Action
 http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Cricket
@@ -242,21 +242,21 @@ http://160.119.77.116:8081/iptv/de-skybundesliga.stream/playlist.m3u8
 #EXTINF:-1,PREMIER SPORTS
 http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
 #EXTINF:-1,Fox Sports 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/hd-foxsports1.stream/playlist.m3u8
 #EXTINF:-1,Fox Sports 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/hd-foxsports2eng.stream/playlist.m3u8
 #EXTINF:-1,Fox Sports 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/sd-foxsports3.stream/playlist.m3u8
 #EXTINF:-1,SPORTS TV1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,NBA TV
 https://laos-tech-live.b-cdn.net/hd-nba_720/index.m3u8
 #EXTINF:-1,beIN Sports HD 1
@@ -269,7 +269,6 @@ https://laos-tech-live.b-cdn.net/hd-golf_720/index.m3u8
 https://laos-tech-live.b-cdn.net/uk-eurosport_480/index.m3u8
 #EXTINF:-1,Euro Sport 2
 https://laos-tech-live.b-cdn.net/uk-eurosport2_480/index.m3u8
-
 #EXTINF:-1,test_CH 1
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,test_CH 2

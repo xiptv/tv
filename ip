@@ -259,16 +259,52 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,NBA TV
 https://laos-tech-live.b-cdn.net/hd-nba_720/index.m3u8
-#EXTINF:-1,beIN Sports HD 1
-https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8
-#EXTINF:-1,beIN Sports HD 2
-https://laos-tech-live.b-cdn.net/epl-bein2_720/index.m3u8
+#EXTINF:-1,beIN Sports 1 HD
+http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
+#EXTINF:-1,beIN Sports 2 HD
+http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
+#EXTINF:-1,beIN Sports 3 HD
+http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8
 #EXTINF:-1,Golf Channel
 https://laos-tech-live.b-cdn.net/hd-golf_720/index.m3u8
 #EXTINF:-1,Euro Sport 1
 https://laos-tech-live.b-cdn.net/uk-eurosport_480/index.m3u8
 #EXTINF:-1,Euro Sport 2
 https://laos-tech-live.b-cdn.net/uk-eurosport2_480/index.m3u8
+#EXTINF:-1,test_CH5 HD
+http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
+#EXTINF:-1,test_NBT
+http://160.119.77.116:8081/iptv/sd-nbt.stream/playlist.m3u8
+#EXTINF:-1,test_ThaiPBS HD
+http://160.119.77.116:8081/iptv/hd-tpbs.stream/playlist.m3u8
+#EXTINF:-1,test_TPTV
+http://160.119.77.116:8081/iptv/sd-tptv.stream/playlist.m3u8
+#EXTINF:-1,test_TNN 16
+http://160.119.77.116:8081/iptv/sd-tnn24.stream/playlist.m3u8
+#EXTINF:-1,test_NEW 18
+http://160.119.77.116:8081/iptv/sd-new.stream/playlist.m3u8
+#EXTINF:-1,test_Nation
+http://160.119.77.116:8081/iptv/sd-nation.stream/playlist.m3u8
+#EXTINF:-1,test_Workpoint HD
+http://160.119.77.116:8081/iptv/hd-workpoint.stream/playlist.m3u8
+#EXTINF:-1,test_GMM25
+http://160.119.77.116:8081/iptv/sd-gmmchannel.stream/playlist.m3u8
+#EXTINF:-1,test_CH8 HD
+http://160.119.77.116:8081/iptv/hd-ch8.stream/playlist.m3u8
+#EXTINF:-1,test_MONO29 HD
+http://160.119.77.116:8081/iptv/hd-mono.stream/playlist.m3u8
+#EXTINF:-1,test_MCOT HD
+http://160.119.77.116:8081/iptv/hd-mcot.stream/playlist.m3u8
+#EXTINF:-1,test_ONE31 HD
+http://160.119.77.116:8081/iptv/hd-gmmone.stream/playlist.m3u8
+#EXTINF:-1,test_Thairath HD
+http://160.119.77.116:8081/iptv/hd-thairath.stream/playlist.m3u8
+#EXTINF:-1,test_Amarin HD
+http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
+#EXTINF:-1,test_CH7 HD
+http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
+#EXTINF:-1,test_PPTV HD
+http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
 #EXTINF:-1,test_CH 1
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,test_CH 2

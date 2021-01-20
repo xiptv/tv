@@ -259,12 +259,26 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,NBA TV
 https://laos-tech-live.b-cdn.net/hd-nba_720/index.m3u8
-#EXTINF:-1,beIN Sports 1 HD
-http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 2 HD
-http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 3 HD
-http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8
+#EXTINF:-1,beIN Sports HD 1
+http://160.119.77.116:8081/iptv/hd-bein1.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 2
+http://160.119.77.116:8081/iptv/hd-bein2.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 3
+http://160.119.77.116:8081/iptv/hd-bein3.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 4
+http://160.119.77.116:8081/iptv/hd-bein4.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 5
+http://160.119.77.116:8081/iptv/hd-bein5.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 6
+http://160.119.77.116:8081/iptv/hd-bein6.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 7
+http://160.119.77.116:8081/iptv/hd-bein7.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 8
+http://160.119.77.116:8081/iptv/hd-bein8.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 9
+http://160.119.77.116:8081/iptv/hd-bein9.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 10
+http://160.119.77.116:8081/iptv/hd-bein10.stream/chunks.m3u8
 #EXTINF:-1,Golf Channel
 https://laos-tech-live.b-cdn.net/hd-golf_720/index.m3u8
 #EXTINF:-1,Euro Sport 1

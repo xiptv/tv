@@ -2,12 +2,12 @@
 #EXTINF:-1,CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1,Fox ไทย
-http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1,Channel 8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1,true FILM HD
+#EXTINF:-1,true Film HD
 http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
-#EXTINF:-1,true Thai FILM
+#EXTINF:-1,true Thai Film
 http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
 #EXTINF:-1,true Series
 http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8
@@ -39,15 +39,17 @@ https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 https://www.livedoomovie.com/02_HITS_720p/chunklist.m3u8
 #EXTINF:-1,Hits Movies
 https://www.livedoomovie.com/02_HITSMOVIE_720p/chunklist.m3u8
+#EXTINF:-1,Warner TV
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1,CH5 HD
 https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
 #EXTINF:-1,NBT HD
 https://cdn6.goprimetime.info/feed/chnbt/index.m3u8
 #EXTINF:-1,ThaiPBS HD
 https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
-#EXTINF:-1,TNN16
+#EXTINF:-1,TNN 16
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
-#EXTINF:-1,NEW18
+#EXTINF:-1,NEW 18
 https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 #EXTINF:-1,Nation
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
@@ -88,7 +90,7 @@ https://cdn6.goprimetime.info/feed/LC31/index.m3u8
 #EXTINF:-1,Channel [V]
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,4FUN TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1,Music Top
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 #EXTINF:-1,Box Hits
@@ -113,10 +115,14 @@ https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
 #EXTINF:-1,SPARKPLAY
 http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
+#EXTINF:-1,Boomerang
+https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
 #EXTINF:-1,TooNEE
 https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
 #EXTINF:-1,Cartoon Club HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1,Nick JR
+https://laos-tech-live.b-cdn.net/sd-nickjr_480/index.m3u8
 #EXTINF:-1,SANOOK MOVIE
 https://cdn6.goprimetime.info/feed/LC53/index.m3u8
 #EXTINF:-1,Charoen Cable TV HD
@@ -134,7 +140,7 @@ http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:-1,BBC EARTH (TH)
 https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
 #EXTINF:-1,Discovery Asia (TH)
-https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1,Discovery Channel (TH)
 https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1,World Animal (TH)
@@ -142,9 +148,9 @@ http://203.154.243.89:1201
 #EXTINF:-1,World Science (TH)
 http://203.154.243.32:8088/live/wsci/index.m3u8
 #EXTINF:-1,Nat Geo (TH)
-https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-#EXTINF:-1,Nat Geo Wild (TH)
 https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,Nat Geo Wild (TH)
+https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 #EXTINF:-1,true EXPLORE WILD
 https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
 #EXTINF:-1,true EXPLORE LIFE
@@ -152,15 +158,15 @@ https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
 #EXTINF:-1,true X-ZYTE
 https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/chunks.m3u8
 #EXTINF:-1,Premier HD1
-http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-1.stream/chunks.m3u8
 #EXTINF:-1,Premier HD2
-http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-2.stream/chunks.m3u8
 #EXTINF:-1,Premier HD3
-http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-3.stream/chunks.m3u8
 #EXTINF:-1,Premier HD4
-http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-4.stream/chunks.m3u8
 #EXTINF:-1,Premier HD5
-http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/epl-5.stream/chunks.m3u8
 #EXTINF:-1,test_Premier 1
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8
 #EXTINF:-1,test_Premier 2
@@ -193,6 +199,14 @@ http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1,astro SuperSport 4
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1,test_astro SuperSport 1
+http://thaicable.myftp.org:8000/live/infosat/2020/7.ts
+#EXTINF:-1,test_astro SuperSport 2
+http://thaicable.myftp.org:8000/live/infosat/2020/8.ts
+#EXTINF:-1,test_astro SuperSport 3
+http://thaicable.myftp.org:8000/live/infosat/2020/9.ts
+#EXTINF:-1,test_astro SuperSport 4
+http://thaicable.myftp.org:8000/live/infosat/2020/10.ts
 #EXTINF:-1,BT SPORTS 1
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1,BT SPORTS 2
@@ -207,8 +221,8 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Football
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF:-1,Sky Sports Mainevent
-http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:-1,Sky Sports News
+https://laos-tech-live.b-cdn.net/uk-skysports-news_480/index.m3u8
 #EXTINF:-1,Sky Sports Even
 http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Mix
@@ -230,125 +244,47 @@ http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
 #EXTINF:-1,Fox Sports 1
 http://160.119.77.116:8081/iptv/hd-foxsports1.stream/playlist.m3u8
 #EXTINF:-1,Fox Sports 2
-http://160.119.77.116:8081/iptv/sd-foxsports2.stream/playlist.m3u8
+http://160.119.77.116:8081/iptv/hd-foxsports2eng.stream/playlist.m3u8
 #EXTINF:-1,Fox Sports 3
 http://160.119.77.116:8081/iptv/sd-foxsports3.stream/playlist.m3u8
 #EXTINF:-1,SPORTS TV1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,SPORTS TV5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1,beIN Sports 1 HD
-http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 2 HD
-http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
-#EXTINF:-1,beIN Sports 3 HD
-http://160.119.77.116:8081/iptv/fr-bein3hd.stream/playlist.m3u8
-#EXTINF:-1,EUROSPORT 4K 1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
-#EXTINF:-1,EUROSPORT 4K 2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200&checkedby
-#EXTINF:-1,EUROSPORT 4K 3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800&checkedby
-#EXTINF:-1,EUROSPORT 4K 4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400&checkedby
-#EXTINF:-1,EUROSPORT 4K 5
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000&checkedby
-#EXTINF:-1,EUROSPORT 4K 6
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600&checkedby
-#EXTINF:-1,EUROSPORT 4K 7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200&checkedby
-#EXTINF:-1,EUROSPORT 4K 8
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800&checkedby
-#EXTINF:-1,EUROSPORT 4K 9
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400&checkedby
-#EXTINF:-1,EUROSPORT 4K 10
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000&checkedby
-#EXTINF:-1,EUROSPORT 4K 11
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600&checkedby
-#EXTINF:-1,EUROSPORT 4K 12
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200&checkedby
-#EXTINF:-1,EUROSPORT 4K 13
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800&checkedby
-#EXTINF:-1,EUROSPORT 4K 14
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400&checkedby
-#EXTINF:-1,EUROSPORT 4K 15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000&checkedby
-#EXTINF:-1,EUROSPORT 4K 16
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600&checkedby
-#EXTINF:-1,EUROSPORT 4K 17
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200&checkedby
-#EXTINF:-1,EUROSPORT 4K 18
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800&checkedby
-#EXTINF:-1,EUROSPORT 4K 19
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400&checkedby
-#EXTINF:-1,EUROSPORT 4K 20
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000&checkedby
-#EXTINF:-1,EUROSPORT 4K 21
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600&checkedby
-#EXTINF:-1,EUROSPORT 4K 22
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200&checkedby
-#EXTINF:-1,EUROSPORT 4K 23
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800&checkedby
-#EXTINF:-1,EUROSPORT 4K 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400&checkedby
-#EXTINF:-1,EUROSPORT 4K 25
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000&checkedby
-#EXTINF:-1,EUROSPORT 4K 26
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600&checkedby
-#EXTINF:-1,EUROSPORT 4K 27
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200&checkedby
-#EXTINF:-1,EUROSPORT 4K 28
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800&checkedby
-#EXTINF:-1,EUROSPORT 4K 29
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400&checkedby
-#EXTINF:-1,EUROSPORT 4K 30
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000&checkedby
-#EXTINF:-1,EUROSPORT 4K 31
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600&checkedby
-#EXTINF:-1,EUROSPORT 4K 32
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200&checkedby
-#EXTINF:-1,EUROSPORT 4K 33
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800&checkedby
-#EXTINF:-1,EUROSPORT 4K 34
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400&checkedby
-#EXTINF:-1,EUROSPORT 4K 35
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000&checkedby
-#EXTINF:-1,EUROSPORT 4K 36
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600&checkedby
-#EXTINF:-1,EUROSPORT 4K 37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200&checkedby
-#EXTINF:-1,EUROSPORT 4K 38
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800&checkedby
-#EXTINF:-1,EUROSPORT 4K 39
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400&checkedby
-#EXTINF:-1,EUROSPORT 4K 40
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000&checkedby
-#EXTINF:-1,EUROSPORT 4K 41
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby
-#EXTINF:-1,EUROSPORT 4K 42
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-151200&checkedby
-#EXTINF:-1,EUROSPORT 4K 43
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-154800&checkedby
-#EXTINF:-1,EUROSPORT 4K 44
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400&checkedby
-#EXTINF:-1,EUROSPORT 4K 45
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000&checkedby
-#EXTINF:-1,EUROSPORT 4K 46
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600&checkedby
-#EXTINF:-1,EUROSPORT 4K 47
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-169200&checkedby
-#EXTINF:-1,EUROSPORT 4K 48
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800&checkedby
-#EXTINF:-1,EUROSPORT 4K 49
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-176400&checkedby
-#EXTINF:-1,EUROSPORT 4K 50
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000&checkedby
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,NBA TV
+https://laos-tech-live.b-cdn.net/hd-nba_720/index.m3u8
+#EXTINF:-1,beIN Sports HD 1
+http://160.119.77.116:8081/iptv/hd-bein1.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 2
+http://160.119.77.116:8081/iptv/hd-bein2.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 3
+http://160.119.77.116:8081/iptv/hd-bein3.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 4
+http://160.119.77.116:8081/iptv/hd-bein4.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 5
+http://160.119.77.116:8081/iptv/hd-bein5.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 6
+http://160.119.77.116:8081/iptv/hd-bein6.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 7
+http://160.119.77.116:8081/iptv/hd-bein7.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 8
+http://160.119.77.116:8081/iptv/hd-bein8.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 9
+http://160.119.77.116:8081/iptv/hd-bein9.stream/chunks.m3u8
+#EXTINF:-1,beIN Sports HD 10
+http://160.119.77.116:8081/iptv/hd-bein10.stream/chunks.m3u8
+#EXTINF:-1,Golf Channel
+https://laos-tech-live.b-cdn.net/hd-golf_720/index.m3u8
+#EXTINF:-1,Euro Sport 1
+https://laos-tech-live.b-cdn.net/uk-eurosport_480/index.m3u8
+#EXTINF:-1,Euro Sport 2
+https://laos-tech-live.b-cdn.net/uk-eurosport2_480/index.m3u8
 #EXTINF:-1,test_CH5 HD
 http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8
 #EXTINF:-1,test_NBT
@@ -383,7 +319,7 @@ http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
 #EXTINF:-1,test_PPTV HD
 http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
-EXTINF:-1,test_CH 1
+#EXTINF:-1,test_CH 1
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,test_CH 2
 http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
@@ -574,4 +510,18 @@ http://thaicable.myftp.org:8000/live/infosat/2020/94.ts
 #EXTINF:-1,test_CH 95
 http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
 #EXTINF:-1,test_CH 96
-http://thaicable.myftp.org:8000/live/infosat/2020/95.
+https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_SoGQyds6NfkxaLEJk_U12g)/dm/3/x6rz4t7/s/live-3.m3u8
+#EXTINF:-1,test_Maleficent Mistress of Evil
+https://cache-edge1.jooxhd.com/hls/content/nas01-1/mvc/m/4k/move/Maleficent-Mistress-of-Evil/Maleficent-Mistress-of-Evil_T.mp4/index.m3u8
+#EXTINF:-1,test_มีเดียนิวส์ทีวี
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+#EXTINF:-1,test_เพชรบูรณ์ทีวี
+https://live.thaitvstream.com/play/phetchabuntv/index.m3u8
+#EXTINF:-1,test_บุรีรัมย์ทีวี
+https://live.thaitvstream.com/play/studio/index.m3u8
+#EXTINF:-1,test_SMN_NEWS
+https://live.thaitvstream.com/play/smn/index.m3u8
+#EXTINF:-1,test_CTV Thailand
+https://live.thaitvstream.com/play/ctvthailand/index.m3u8
+#EXTINF:-1,test_เชียงรายทีวี
+https://live.thaitvstream.com/play/chiangrai/index.m3u8

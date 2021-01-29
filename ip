@@ -319,6 +319,88 @@ http://160.119.77.116:8081/iptv/hd-amarin.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-ch7.stream/playlist.m3u8
 #EXTINF:-1,test_PPTV HD
 http://160.119.77.116:8081/iptv/hd-pptv.stream/playlist.m3u8
+#EXTINF:-1,AXN
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1,Warner TV
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1,HBO
+https://www.livedoomovies.com:443/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1,Fox Movie
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1,HISTORY
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1,H2
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1,Animal Planet
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,Fox Sport 1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sport 2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sport 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1,NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1,Golf HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1,Premier HD 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,Premier HD 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,Premier HD 3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,Premier HD 4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,Premier HD 5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,Premier SD 1
+https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
+#EXTINF:-1,Premier SD 2
+https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1,Premier SD 3
+https://www.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
+#EXTINF:-1,Premier SD 4
+https://www.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8
+#EXTINF:-1,Premier SD 5
+https://www.livedoomovie.com/02_PremierHD5_480p/chunklist.m3u8
+#EXTINF:-1,True Sport HD 1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1,True Sport HD 2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1,True Sport HD 3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,True Sport HD 4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1,True Sport HD 5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1,True Sport HD 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1,True Sport HD 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1,DIGI SPORT
+http://tv.protvmm.live:5080/LiveApp/streams/325007722519183089313921.m3u8
+#EXTINF:-1,CANAL+SPORT
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BT SPORT 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,BT SPORT 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1,UFC FIGHT
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2000/index.m3u
+#EXTINF:-1,FIGHT BOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,test_CH 1
 http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 #EXTINF:-1,test_CH 2
@@ -509,19 +591,3 @@ http://thaicable.myftp.org:8000/live/infosat/2020/93.ts
 http://thaicable.myftp.org:8000/live/infosat/2020/94.ts
 #EXTINF:-1,test_CH 95
 http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
-#EXTINF:-1,test_CH 96
-https://stream-03.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_SoGQyds6NfkxaLEJk_U12g)/dm/3/x6rz4t7/s/live-3.m3u8
-#EXTINF:-1,test_Maleficent Mistress of Evil
-https://cache-edge1.jooxhd.com/hls/content/nas01-1/mvc/m/4k/move/Maleficent-Mistress-of-Evil/Maleficent-Mistress-of-Evil_T.mp4/index.m3u8
-#EXTINF:-1,test_มีเดียนิวส์ทีวี
-https://live1.thaitvstream.com/play/medianews/index.m3u8
-#EXTINF:-1,test_เพชรบูรณ์ทีวี
-https://live.thaitvstream.com/play/phetchabuntv/index.m3u8
-#EXTINF:-1,test_บุรีรัมย์ทีวี
-https://live.thaitvstream.com/play/studio/index.m3u8
-#EXTINF:-1,test_SMN_NEWS
-https://live.thaitvstream.com/play/smn/index.m3u8
-#EXTINF:-1,test_CTV Thailand
-https://live.thaitvstream.com/play/ctvthailand/index.m3u8
-#EXTINF:-1,test_เชียงรายทีวี
-https://live.thaitvstream.com/play/chiangrai/index.m3u8
